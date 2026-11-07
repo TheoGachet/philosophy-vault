@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "5ba7e0f733b93c65",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1dad3974f6b2d9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b26a93fc0549594",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4a271c7efd3f76e",
+    "type": "split",
+    "children": [
+      {
+        "id": "89cb34b1217fdf14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ccc635007181aec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "c2f26f383e1eb458",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "ffd8c17a35944944",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "915e18b510d62305",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2f8747355afe3f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf8c3bd1e5732ab7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
+            }
+          },
+          {
+            "id": "37a804fc6996d349",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "571a549480cdbf81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "cacd62517bcce685",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "a471f37ec46f7864",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer un nouveau canvas": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8b26a93fc0549594",
+  "lastOpenFiles": [
+    "02 Philosophes/Leibniz.md",
+    "03 Concepts/Qu'est-ce qu'un aphorisme ?.md",
+    "Volonté de puissance.md",
+    "02 Philosophes/Friedrich Nietzsche.md",
+    "09 MOC/MOC Formes brèves.md",
+    "05 Courants/Rationalisme.md",
+    "05 Courants/Platonisme.md",
+    "05 Courants/Présocratiques.md",
+    "05 Courants/Phénoménologie.md",
+    "05 Courants/Néoplatonisme.md",
+    "05 Courants/Épicurisme.md",
+    "05 Courants/Confucianisme.md",
+    "05 Courants/Bouddhisme.md",
+    "05 Courants/Aristotélisme.md",
+    "07 Questions/La vie a-t-elle un sens ?.md",
+    "02 Philosophes/Augustin.md",
+    "07 Questions/Pourquoi le mal et la souffrance ?.md",
+    "07 Questions/Qu'est-ce qu'une cité juste ?.md",
+    "07 Questions/Qu'est-ce que bien vivre ?.md",
+    "09 MOC/MOC Époques.md",
+    "09 MOC/MOC Domaines.md",
+    "09 MOC/Accueil.md",
+    "09 MOC",
+    "08 Mes pensées/README.md",
+    "08 Mes pensées",
+    "07 Questions/Sommes-nous libres ?.md",
+    "07 Questions/Que puis-je connaître ?.md",
+    "07 Questions/Que peut le langage ?.md",
+    "07 Questions",
+    "06 Œuvres",
+    "05 Courants",
+    "04 Arguments",
+    "03 Concepts",
+    "02 Philosophes",
+    "01 Sources",
+    "00 Inbox"
+  ]
+}
