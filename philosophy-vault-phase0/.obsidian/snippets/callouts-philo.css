@@ -1,0 +1,19 @@
+/* Callouts personnalisés pour le vault philo.
+   À activer : Paramètres → Apparence → Extraits CSS → callouts-philo. */
+
+.callout[data-callout="moi"] {
+  --callout-color: 120, 90, 200;
+  --callout-icon: lucide-pen-line;
+}
+
+.callout[data-callout="objection"] {
+  --callout-color: 220, 90, 70;
+  --callout-icon: lucide-swords;
+}
+
+.callout[data-callout="interpretation"] {
+  --callout-color: 70, 150, 160;
+  --callout-icon: lucide-glasses;
+}
+
+.callout[data-callout="moi"] .callout-title::after { content: " — à toi"; opacity: .5; font-weight: normal; }
