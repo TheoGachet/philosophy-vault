@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "915e18b510d62305",
@@ -178,9 +178,10 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false
+      "bases:Créer une nouvelle base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac1368d302130fe6",
+  "active": "0ccc635007181aec",
   "lastOpenFiles": []
 }
