@@ -19,7 +19,7 @@ Exposé du marxisme à partir de la lutte des classes. Part du matérialisme (l'
 
 ## Notes créées et enrichies
 - [[Marx]] (enrichi)
-- Concepts marxiens : [[Lutte des classes]] · [[Matérialisme historique]] · [[Conscience de classe]] · [[Classe en soi et classe pour soi]] · [[Aliénation idéologique]] · [[Dialectique du maître et de l'esclave]] · [[Baisse tendancielle du taux de profit]]
+- Concepts : [[Capitalisme]] · [[Communisme]] · [[Lutte des classes]] · [[Conscience de classe]] · [[Idéologie]] · [[Matérialisme]] · [[Dialectique]] · [[Dialectique du maître et de l'esclave]] · [[Révolution]]
 - Concepts transversaux : [[Le Travail]] · [[Exploitation]] · [[Le Pouvoir]] · [[La Liberté]] · [[Égalité]]
 - Argument : [[Le capitalisme produit les conditions de sa propre abolition (Marx)]]
 - Questions : [[Qu'est-ce que le travail ?]] · [[L'histoire a-t-elle un sens ?]]

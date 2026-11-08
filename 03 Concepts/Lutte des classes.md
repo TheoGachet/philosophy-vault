@@ -21,7 +21,7 @@ L'histoire de toute société est, selon Marx, celle de la lutte des classes. La
 
 ## Relations
 appartient_à:: matérialisme historique
-illustre:: [[Matérialisme historique]]
+illustre:: [[Matérialisme]]
 prolonge:: [[Exploitation]]
 pose_la_question:: [[Qu'est-ce qu'une cité juste ?]]
 

@@ -16,13 +16,10 @@ cree: 2026-11-07
 - [[Le capitalisme produit les conditions de sa propre abolition (Marx)]]
 
 ## Concepts clés
-- [[Matérialisme historique]]
-- [[Lutte des classes]]
-- [[Conscience de classe]]
-- [[Classe en soi et classe pour soi]]
-- [[Aliénation idéologique]]
-- [[Dialectique du maître et de l'esclave]]
-- [[Baisse tendancielle du taux de profit]]
+- [[Matérialisme]] · [[Dialectique]]
+- [[Lutte des classes]] · [[Conscience de classe]] · [[Idéologie]]
+- [[Capitalisme]] · [[Communisme]] · [[Révolution]]
+- [[Dialectique du maître et de l'esclave]] (reprise de Hegel)
 
 ## Concepts transversaux travaillés ici
 - [[Le Travail]] · [[Exploitation]] · [[Le Pouvoir]] · [[La Liberté]] · [[Égalité]]

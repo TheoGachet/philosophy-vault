@@ -20,7 +20,7 @@ cree: 2026-11-08
 Un sens de l'histoire rend-il la prédiction possible (Marx annonce l'effondrement) ou n'est-ce qu'une foi déguisée en science ? Voir [[Le capitalisme produit les conditions de sa propre abolition (Marx)]].
 
 ## Relations
-pose_la_question:: [[Matérialisme historique]]
+pose_la_question:: [[Matérialisme]]
 
 > [!moi]
 > *Ma position provisoire.*

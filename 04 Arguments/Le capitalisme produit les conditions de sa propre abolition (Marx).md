@@ -14,7 +14,7 @@ cree: 2026-11-08
 
 ## Structure
 1. Le capitalisme vise l'accumulation indéfinie et doit sans cesse réduire ses coûts.
-2. Cela engendre la [[Baisse tendancielle du taux de profit]], la concentration du capital et l'appauvrissement des travailleurs → crise inéluctable.
+2. Cela engendre la baisse tendancielle du taux de profit (voir [[Capitalisme]]), la concentration du capital et l'appauvrissement des travailleurs → crise inéluctable.
 3. En concentrant et prolétarisant la société, il produit aussi la masse ouvrière, « ceux qui manieront les armes qui le mettront à mort ».
 4. La lutte fait accéder le prolétariat à la [[Conscience de classe]] (via la [[Dialectique du maître et de l'esclave]]).
 → **Conclusion** : l'effondrement et la révolution sont inscrits dans la logique même du système ; chaque pas du capitalisme est un pas vers son abolition.
@@ -36,6 +36,7 @@ cree: 2026-11-08
 ## Relations
 répond_à:: [[Qu'est-ce qu'une cité juste ?]]
 influencé_par:: [[Hegel]]
-illustre:: [[Lutte des classes]]
+illustre:: [[Lutte des classes]] · [[Dialectique]]
+prolonge:: [[Capitalisme]] · [[Révolution]]
 
 > [!moi]
