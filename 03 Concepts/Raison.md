@@ -3,13 +3,16 @@ type: concept
 aliases: [raison, rationalisme, problème de Socrate, instinct]
 tags: [épistémologie, éthique]
 statut: en_cours
-sources: ["[[Nietzsche, conférence — Julien Rochedy]]"]
+sources: ["[[Marx, la lutte des classes — vidéo (Le Précepteur ?)]]", "[[Nietzsche, conférence — Julien Rochedy]]"]
 cree: 2026-11-08
 ---
 
 # Raison
 
 **Raison** : *la faculté de penser selon des principes et de justifier ce qu'on avance. Pour Nietzsche, c'est un instrument de la vie, qui devient malade quand on en fait le but.*
+
+## Chez Hegel
+D'après la vidéo sur Marx, pour [[Hegel]] l'histoire est guidée par la raison, par l'Idée qui s'incarne dans la matière et se déploie. Marx renverse ce schéma (voir [[Matérialisme]]), et Nietzsche le juge naïf.
 
 ## Chez Nietzsche
 - **Le problème de Socrate** (*Crépuscule des idoles*). L'équation raison = vertu = bonheur est un symptôme de décadence. Quand les instincts se dérèglent, on se jette sur la raison comme sur un remède.
@@ -20,14 +23,13 @@ cree: 2026-11-08
 > [!interpretation] Julien Rochedy
 > Il applique cette critique au « cercle de la raison » des modérés contemporains et au vote centriste, et revendique de ne « pas être raisonnable ».
 
-## Chez d'autres (à venir)
+## Pistes de lecture
 - Hume : « la raison est l'esclave des passions ». C'est proche de Nietzsche.
-- [[Descartes]] et [[Kant]] : la raison comme fondement.
+- Descartes et Kant : la raison comme fondement.
 - Les Lumières, et leurs critiques : romantiques, Horkheimer et Adorno.
 
 ## Relations
-critique:: [[Socrate]]
-s_oppose_à:: [[Apollinien et dionysiaque]]
+critique:: [[Socrate]] · [[Hegel]]
 prolonge:: [[Corps]]
 illustre:: [[Nihilisme]] · [[Dialectique]]
 

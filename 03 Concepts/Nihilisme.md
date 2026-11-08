@@ -31,11 +31,11 @@ Nietzsche distingue deux formes :
 > [!interpretation] Julien Rochedy
 > Il voit deux faces au nihilisme d'aujourd'hui, avec la même volonté de mourir. D'un côté, les « moralisateurs » qui croient trop (voir [[Morale]]). De l'autre, les désabusés qui ne croient plus à rien et pour qui tout se vaut. Il étend l'arrière-monde au communisme, au progressisme et à l'islamisme : tous promettent un monde meilleur pour mieux détruire celui-ci. L'Europe serait au stade terminal de la décadence que Nietzsche avait annoncée.
 
-## Chez d'autres (à venir)
+## Pistes de lecture
 - Jacobi, qui emploie le mot en 1799, et Tourgueniev, *Pères et fils* (1862).
 - Dostoïevski, *Les Démons*.
-- [[Heidegger]] : le nihilisme comme histoire de l'oubli de l'être.
-- [[Camus]], *L'Homme révolté*. Spengler, *Le Déclin de l'Occident*.
+- Heidegger : le nihilisme comme histoire de l'oubli de l'être.
+- Camus, *L'Homme révolté*. Spengler, *Le Déclin de l'Occident*.
 
 ## Relations
 prolonge:: [[Mort de Dieu]] · [[Christianisme]]

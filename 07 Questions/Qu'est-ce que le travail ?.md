@@ -14,7 +14,9 @@ cree: 2026-11-08
 ## Réponses en présence
 - **Lieu d'exploitation et d'émancipation possible** — [[Marx]] : le travail produit toute la valeur mais asservit le prolétaire.
 - **Médiation formatrice de la conscience** — [[Hegel]] : par le travail, l'esclave se forme et dépasse le maître.
-- **Condition à distinguer de l'œuvre et de l'action** — [[Arendt]] (à développer).
+
+## Pistes de lecture
+- Arendt, *Condition de l'homme moderne* : distinguer le travail, l'œuvre et l'action.
 
 ## Tensions
 Le travail libère-t-il (il rend autonome) ou asservit-il (il faut le vendre pour vivre) ? La même activité porte les deux.

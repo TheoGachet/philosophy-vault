@@ -23,16 +23,16 @@ C'est la vieille question de l'union de l'âme et du corps. Lequel commande l'au
 > [!interpretation] Julien Rochedy
 > Pour lui, le corps est le critère des idées saines : « un corps essoufflé produit des idées essoufflées ». Il oppose le philosophe-guerrier à l'intellectuel désincarné. « Platon » serait un surnom signifiant « larges épaules », ce qui est probable mais discuté. Il invoque la science des hormones et de l'alimentation.
 
-## Chez d'autres (à venir)
-- [[Platon]] : le corps tombeau de l'âme, dans le *Phédon*.
-- [[Descartes]] : le dualisme.
-- [[Spinoza]] : « on ne sait pas ce que peut un corps ».
+## Pistes de lecture
+- Platon : le corps tombeau de l'âme, dans le *Phédon*.
+- Descartes : le dualisme.
+- Spinoza : « on ne sait pas ce que peut un corps ».
 - Merleau-Ponty : le corps propre.
 
 ## Relations
 s_oppose_à:: [[Christianisme]]
-prolonge:: [[Matérialisme]]
 illustre:: [[Surhomme]] · [[Raison]]
+prolonge:: [[Matérialisme]]
 
 > [!objection]
 > Faire du corps le juge des idées mène à un argument dangereux : discréditer une pensée par la santé ou le physique de celui qui la porte. Nietzsche en est le premier contre-exemple. Malade presque toute sa vie, il a écrit son œuvre la plus affirmative dans la souffrance.

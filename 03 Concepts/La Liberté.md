@@ -17,14 +17,12 @@ La liberté se dit de plusieurs façons : liberté politique (ne pas être domin
 ## Chez Marx
 La liberté n'est pas d'abord intérieure mais historique : elle est **émancipation**, fin de l'exploitation. Marx démasque la « liberté du commerce » bourgeoise comme une liberté formelle qui masque une servitude réelle ; la Révolution de 1789 a produit des droits de l'homme « bourgeois », pas l'émancipation du prolétaire.
 
-## Chez d'autres (à venir)
-- [[Spinoza]] : la liberté comme nécessité comprise.
-- [[Kant]] : l'autonomie de la volonté par la loi morale.
-- [[Sartre]] : la liberté radicale, « condamnés à être libres ».
+## Pistes de lecture
+- Spinoza : la liberté comme nécessité comprise.
+- Kant : l'autonomie de la volonté par la loi morale.
+- Sartre : la liberté radicale, « condamnés à être libres ».
 
 ## Relations
-pose_la_question:: [[Sommes-nous libres ?]]
-s_oppose_à:: [[Le Pouvoir]]
 prolonge:: [[Égalité]]
 
 > [!objection]

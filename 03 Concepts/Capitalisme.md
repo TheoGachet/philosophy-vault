@@ -23,7 +23,7 @@ Deux classes s'y font face : ceux qui possèdent les moyens de production et ceu
 
 **Il produit ses fossoyeurs.** En se développant, il fabrique le prolétariat qui l'abolira. Voir [[Le capitalisme produit les conditions de sa propre abolition (Marx)]].
 
-## Chez d'autres (à venir)
+## Pistes de lecture
 - Adam Smith : la main invisible, la division du travail.
 - Max Weber : l'éthique protestante et l'esprit du capitalisme.
 - Hayek : le marché comme ordre spontané et le savoir dispersé.

@@ -21,9 +21,9 @@ D'après la *Généalogie de la morale*, I :
 > [!interpretation] Julien Rochedy
 > Il illustre par les conquêtes historiques : Aryens en Inde, Doriens, Germains, Arabes, Touaregs. Il cite aussi les castes du code de Manou. Il applique la morale des esclaves au progressisme contemporain : féminisme, antiracisme, droits des minorités, « culte de la victime ». Ce serait la révolte des esclaves achevée, une vengeance déguisée en justice. C'est le cœur de sa lecture identitaire, et sa part la plus contestable.
 
-## Chez d'autres (à venir)
-- [[Hegel]] : la [[Dialectique du maître et de l'esclave]], un schéma très différent. Chez Hegel, c'est l'esclave qui se forme et l'emporte par le travail.
-- [[Marx]] : la [[Lutte des classes]].
+## Pistes de lecture
+- Hegel : la Dialectique du maître et de l'esclave, un schéma très différent. Chez Hegel, c'est l'esclave qui se forme et l'emporte par le travail.
+- Marx : la Lutte des classes.
 - Max Scheler, *L'Homme du ressentiment* (1912), reprend et critique Nietzsche.
 
 ## Relations

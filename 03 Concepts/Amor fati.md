@@ -20,15 +20,14 @@ cree: 2026-11-08
 > [!interpretation] Julien Rochedy
 > C'est pour lui la troisième « prédication » de Zarathoustra contre le nihilisme. Il s'agit de se sentir partie du tout, et d'agir quand même. Il prend l'image de Thor, qui part à la guerre en riant dans sa barbe : tout donner, et en rire. Celui qui aime son destin ne peut être atteint par le [[Ressentiment]].
 
-## Chez d'autres (à venir)
+## Pistes de lecture
 - Les stoïciens, Épictète et Marc Aurèle : consentir à ce qui ne dépend pas de nous. La différence : le stoïcien consent, Nietzsche veut et aime.
-- [[Spinoza]] : comprendre la nécessité, c'est s'en libérer.
+- Spinoza : comprendre la nécessité, c'est s'en libérer.
 
 ## Relations
 prolonge:: [[Éternel retour]]
 s_oppose_à:: [[Ressentiment]] · [[Nihilisme]]
 illustre:: [[Surhomme]]
-pose_la_question:: [[Faut-il chercher le bonheur ?]]
 
 > [!objection]
 > Aimer tout ce qui arrive, est-ce aussi aimer l'injustice que subissent les autres ? L'amor fati se tient pour son propre destin. Étendu au monde, il risque de devenir une justification de ce qui est. Rochedy règle la tension par « agir en riant », mais si tout est bien, au nom de quoi agir et combattre ? Le même discours appelle pourtant à « sauver » l'Europe.

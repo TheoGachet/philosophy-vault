@@ -27,7 +27,7 @@ cree: 2026-11-08
 >
 > Le surhomme n'est pas le « winner » musclé. Dans la caverne de Zarathoustra, c'est peut-être « le plus hideux des hommes » qui en approche : il refuse la pitié et s'accepte. Nietzsche lui-même, malade et solitaire, aurait été un surhomme en ce sens. *Ecce Homo* : « je suis un décadent, mais aussi son contraire ». Rochedy voit aussi la folie finale de Nietzsche comme un retour à l'enfance de la troisième métamorphose.
 
-## Chez d'autres (à venir)
+## Pistes de lecture
 - La récupération nazie, un contresens reconnu.
 - Deleuze, Bataille.
 - Le transhumanisme, qui tire le mot vers la technique.

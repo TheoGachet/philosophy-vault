@@ -23,7 +23,7 @@ La foule réclame ce dernier homme à Zarathoustra, qui voulait lui annoncer le 
 > [!interpretation] Julien Rochedy
 > Pour lui, c'est l'homme postmoderne : quête du bien-être, de la facilité et de la consommation, égalitarisme, désacralisation, médicaments et anxiolytiques. Il précise : « c'est vous, c'est moi ». Il compare le jeune en boîte de nuit à un petit vieux.
 
-## Chez d'autres (à venir)
+## Pistes de lecture
 - Tocqueville : le « despotisme doux » d'un pouvoir qui veille au bonheur de tous.
 - Huxley, *Le Meilleur des mondes*.
 - Fukuyama, *La Fin de l'histoire et le dernier homme* (1992).

@@ -29,7 +29,6 @@ Le vocabulaire vient de Hegel. Tout l'enjeu politique est le passage de l'une à
 s_oppose_à:: [[Idéologie]]
 prolonge:: [[Lutte des classes]]
 illustre:: [[Révolution]]
-influencé_par:: [[Hegel]]
 
 > [!objection]
 > Il y a un cercle. La conscience naît de la lutte, mais lutter suppose déjà de se savoir exploité : qu'est-ce qui vient en premier ? Et la notion d'intérêts « objectifs » de classe pose une question : qui fixe ces vrais intérêts, contre ce que les membres de la classe pensent eux-mêmes vouloir ? On ouvre la porte à une avant-garde qui décrète la conscience que le prolétariat *devrait* avoir.

@@ -3,7 +3,7 @@ type: concept
 aliases: [morale, moraline, valeurs morales, immoralisme]
 tags: [éthique]
 statut: en_cours
-sources: ["[[Nietzsche, conférence — Julien Rochedy]]"]
+sources: ["[[Marx, la lutte des classes — vidéo (Le Précepteur ?)]]", "[[Nietzsche, conférence — Julien Rochedy]]"]
 cree: 2026-11-08
 ---
 
@@ -25,15 +25,24 @@ Il faut distinguer deux choses :
 > [!interpretation] Julien Rochedy
 > Il assimile la moraline contemporaine aux discours humanitaires, aux « valeurs républicaines » et à l'antiracisme. Il appelle « tarentules » ceux qui les portent. Le mot vient de *Zarathoustra*, II, « Des tarentules », où Nietzsche vise les prédicateurs de l'égalité animés par l'esprit de vengeance.
 
-## Chez d'autres (à venir)
-- [[Kant]] : la morale comme loi de la raison, universelle.
-- [[Aristote]] : la morale comme vertu et excellence.
-- [[Mill]] : la morale comme calcul du plus grand bonheur.
+## Chez Marx
+- **La lutte des classes n'est pas une affaire morale.** Marx ne l'analyse pas en termes de bien et de mal, mais de rapports de force et de processus historiques. C'est le sens de « socialisme scientifique ». La question n'est pas de savoir s'il est juste que les prolétaires soient exploités, mais comment la domination fonctionne et où elle mène.
+- **La pointe finale de la vidéo** vise certains marxistes. Pour eux, la lutte n'est plus une nécessité, mais une manière d'exister et de se montrer du côté des dominés. Ils sacralisent un texte pour se sentir du côté du bien.
+
+## Marx et Nietzsche
+Tous deux remplacent la question « est-ce bien ? » par la question « quel rapport de force s'exprime ici ? ». Marx le fait pour renverser la domination, Nietzsche pour réévaluer les valeurs. Et la vidéo sur Marx fait à certains marxistes le même reproche que Nietzsche aux moralistes : l'indignation comme posture.
+
+## Pistes de lecture
+- Kant : la morale comme loi de la raison, universelle.
+- Aristote : la morale comme vertu et excellence.
+- Mill : la morale comme calcul du plus grand bonheur.
 
 ## Relations
 prolonge:: [[Généalogie]]
 illustre:: [[Morale des maîtres et morale des esclaves]] · [[Mauvaise conscience]]
 influencé_par:: [[La Rochefoucauld]]
+critique:: [[Marx]]
+illustre:: [[Lutte des classes]]
 pose_la_question:: [[D'où viennent nos valeurs ?]]
 
 > [!objection]
