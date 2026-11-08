@@ -23,7 +23,8 @@ La liberté n'est pas d'abord intérieure mais historique : elle est **émancipa
 - Sartre : la liberté radicale, « condamnés à être libres ».
 
 ## Relations
-prolonge:: [[Égalité]]
+s_oppose_à:: [[Capitalisme]] — la seule liberté que la bourgeoisie a laissée, c'est la liberté du commerce
+suppose:: [[Égalité]] — pour Marx, l'émancipation réelle suppose l'égalité réelle
 
 > [!objection]
 > Faire de la liberté une pure affaire d'émancipation collective risque de sacrifier la liberté individuelle au nom de la libération à venir — reproche adressé au marxisme par les libéraux (Berlin : liberté négative contre liberté positive). La liberté formelle, si imparfaite soit-elle, n'est pas rien.

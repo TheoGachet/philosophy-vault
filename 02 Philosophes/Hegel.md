@@ -20,19 +20,14 @@ cree: 2026-11-08
 - **L'État comme forme la plus accomplie** de l'existence collective.
 
 ## Chez Marx
-Marx garde la dialectique et le sens de l'histoire, mais il en change le moteur : ce sont les rapports matériels qui font émerger l'esprit, et non l'inverse. Il « remet Hegel sur ses pieds » (voir [[Matérialisme]]). Certains reprochent à Hegel une vision messianique de l'Esprit, que Marx prétend évacuer.
+Marx garde la dialectique et le sens de l'histoire, mais il en change le moteur : ce sont les rapports matériels qui font émerger l'esprit, et non l'inverse. Il « remet Hegel sur ses pieds ». Certains reprochent à Hegel une vision messianique de l'Esprit, que Marx prétend évacuer.
 
 ## Chez Nietzsche
-- Le progressisme hégélien, l'Esprit qui s'accomplit toujours davantage, est pour lui une « niaiserie ». Il tient ce mépris de [[Schopenhauer]].
+- Le progressisme hégélien, l'Esprit qui s'accomplit toujours davantage, est pour lui une « niaiserie ». Il tient ce mépris de Schopenhauer.
 - Dès les *Considérations inactuelles*, il critique l'historicisme qui domine la pensée allemande depuis Hegel.
-- Il prend le contre-pied de sa conception de l'[[État]], « le plus froid des monstres froids ».
+- Il prend le contre-pied de sa conception de l'État, « le plus froid des monstres froids ».
 
 ## Œuvres
 *Phénoménologie de l'esprit* (1807) · *Science de la logique* (1812–1816) · *Principes de la philosophie du droit* (1820) · *Leçons sur la philosophie de l'histoire* (posthume)
-
-## Relations
-influence:: [[Marx]]
-s_oppose_à:: [[Schopenhauer]] · [[Matérialisme]]
-critique:: [[Friedrich Nietzsche]]
 
 > [!moi]

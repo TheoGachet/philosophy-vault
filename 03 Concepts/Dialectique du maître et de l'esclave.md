@@ -18,9 +18,9 @@ Chez Hegel (*Phénoménologie de l'Esprit*, 1807), le maître fait travailler l'
 Marx en fait le ressort de la prise de conscience du travailleur en lutte : le prolétaire découvre que le capitaliste ne peut rien sans lui. La supériorité du prolétaire tient à cette dépendance — non celle qui le lie au capital, mais celle par laquelle le capitaliste est lié à lui. L'autorité n'existe que si elle est autorisée : si le prolétaire cesse d'autoriser le pouvoir sur lui, ce pouvoir s'évanouit.
 
 ## Relations
-influencé_par:: [[Hegel]]
-illustre:: [[Conscience de classe]] · [[Le Travail]] · [[Le Pouvoir]]
-prolonge:: [[Lutte des classes]]
+illustre:: [[Dialectique]] — la figure la plus célèbre du renversement dialectique
+prolonge:: [[Le Travail]] — c'est par le travail que l'esclave devient autonome
+prolonge:: [[Le Pouvoir]] — l'autorité n'existe que tant qu'elle est autorisée
 
 > [!objection]
 > Le renversement est logiquement élégant mais empiriquement incertain : la dépendance du capitaliste au travail n'a pas empêché, historiquement, le remplacement des grévistes, l'automatisation, la délocalisation. La dépendance existe, mais elle est distribuée — le capital peut souvent changer d'esclave.

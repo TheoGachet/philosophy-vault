@@ -18,7 +18,7 @@ Le pouvoir se décline : pouvoir juridique et institutionnel d'un côté, pouvoi
 Distinction décisive : le prolétariat détient le **pouvoir réel** (il produit), même sans le pouvoir institutionnel. « L'autorité, c'est le fait d'être autorisé » : si le prolétaire cesse d'autoriser le pouvoir sur lui, ce pouvoir n'existe plus. La politique est « le bras armé de l'économie », la police « le bras armé de la politique ».
 
 ## Chez Nietzsche
-- Le pouvoir n'est pas une chose qu'on possède. C'est ce que tout vivant cherche à exercer : la [[Volonté de puissance]].
+- Le pouvoir n'est pas une chose qu'on possède. C'est ce que tout vivant cherche à exercer : la Volonté de puissance.
 - Il ne se réduit pas à la force brute. La morale, le discours, le don et même l'humilité sont des manières d'exercer une puissance. Ceux qui ne peuvent pas dominer par les armes dominent par les valeurs : c'est la révolte des esclaves dans la morale.
 
 ## Pistes de lecture
@@ -27,9 +27,7 @@ Distinction décisive : le prolétariat détient le **pouvoir réel** (il produi
 - Arendt : le pouvoir comme agir-ensemble, distinct de la violence.
 
 ## Relations
-prolonge:: [[Volonté de puissance]]
-pose_la_question:: [[Qu'est-ce qu'une cité juste ?]]
-illustre:: [[Dialectique du maître et de l'esclave]]
+prolonge:: [[Volonté de puissance]] — pour Nietzsche, le pouvoir n'est pas un bien qu'on possède, mais ce que tout vivant cherche à exercer
 
 > [!objection]
 > Réduire le pouvoir au rapport économique (qui produit commande) sous-estime ses autres sources : la légitimité, la croyance, l'institution, la force symbolique. Foucault montrera que le pouvoir n'est pas seulement détenu d'en haut, mais circule partout.

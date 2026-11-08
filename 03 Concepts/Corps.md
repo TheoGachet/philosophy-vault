@@ -30,9 +30,8 @@ C'est la vieille question de l'union de l'âme et du corps. Lequel commande l'au
 - Merleau-Ponty : le corps propre.
 
 ## Relations
-s_oppose_à:: [[Christianisme]]
-illustre:: [[Surhomme]] · [[Raison]]
-prolonge:: [[Matérialisme]]
+s_oppose_à:: [[Christianisme]] — le mépris chrétien du corps au profit de l'esprit
+fonde:: [[Surhomme]] — rester fidèle à la terre, c'est le sens de la terre
 
 > [!objection]
 > Faire du corps le juge des idées mène à un argument dangereux : discréditer une pensée par la santé ou le physique de celui qui la porte. Nietzsche en est le premier contre-exemple. Malade presque toute sa vie, il a écrit son œuvre la plus affirmative dans la souffrance.

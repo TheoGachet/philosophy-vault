@@ -18,7 +18,7 @@ cree: 2026-11-08
 - **L'origine.** L'idée vient à Nietzsche en août 1881 à Sils-Maria, devant un rocher pyramidal au bord du lac de Silvaplana. Il la tient pour sa pensée la plus lourde.
 
 > [!interpretation] Julien Rochedy
-> Il raconte l'énigme avec un vieil homme endormi au carrefour ; chez Nietzsche, c'est un nain. Il voit dans le théorème de récurrence de Poincaré (1890) une confirmation scientifique de l'éternel retour. Il en fait aussi une lecture panthéiste : on sent qu'on participe à l'éternité, comme l'atman des brahmanes ou l'être de Heidegger. Ce sentiment ne doit pas rendre contemplatif : il doit pousser à agir en riant. Voir [[Tout revient éternellement (Nietzsche)]].
+> Il raconte l'énigme avec un vieil homme endormi au carrefour ; chez Nietzsche, c'est un nain. Il voit dans le théorème de récurrence de Poincaré (1890) une confirmation scientifique de l'éternel retour. Il en fait aussi une lecture panthéiste : on sent qu'on participe à l'éternité, comme l'atman des brahmanes ou l'être de Heidegger. Ce sentiment ne doit pas rendre contemplatif : il doit pousser à agir en riant.
 
 ## Pistes de lecture
 - Héraclite et les stoïciens : le monde périt dans un embrasement et renaît, dans des cycles qui se répètent.
@@ -26,9 +26,8 @@ cree: 2026-11-08
 - Kundera, au début de *L'Insoutenable Légèreté de l'être*, prend l'éternel retour à rebours : sans retour, tout est léger.
 
 ## Relations
-prolonge:: [[Amor fati]]
-s_oppose_à:: [[Nihilisme]]
-pose_la_question:: [[La vie a-t-elle un sens ?]] · [[L'histoire a-t-elle un sens ?]]
+s_oppose_à:: [[Nihilisme]] — le but n'est pas ailleurs, il est atteint à chaque instant
+pose_la_question:: [[L'histoire a-t-elle un sens ?]] — ni progrès ni fin, un cercle
 
 > [!objection]
 > La version cosmologique est la plus faible. Le théorème de Poincaré ne vaut que pour un système isolé, avec un espace des états borné. Rien ne prouve que l'univers en soit un, et l'entropie va plutôt dans l'autre sens. La version éthique, elle, n'a pas besoin d'être vraie pour agir : elle fonctionne comme un test. Il reste à savoir si on peut vouloir le retour de la souffrance des autres, et pas seulement de la sienne.

@@ -21,8 +21,5 @@ cree: 2026-11-08
 ## Tensions
 Le travail libère-t-il (il rend autonome) ou asservit-il (il faut le vendre pour vivre) ? La même activité porte les deux.
 
-## Relations
-pose_la_question:: [[Le Travail]]
-
 > [!moi]
 > *Ma position provisoire.*

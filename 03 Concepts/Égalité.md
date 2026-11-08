@@ -18,7 +18,7 @@ L'égalité se partage entre égalité formelle (mêmes droits) et égalité ré
 L'intérêt des dominés, c'est l'égalité — « la mort des privilèges », ce dont les dominants ne veulent pas. Marx vise une égalité réelle, par la mise en commun des moyens de production, au-delà de l'égalité juridique bourgeoise jugée formelle. L'horizon est une société sans classes « où la fraternité est garante de l'égalité ».
 
 ## Chez Nietzsche
-- L'égalité est une valeur de la morale des esclaves. Les faibles l'ont élevée au rang de bien pour niveler les forts (voir [[Morale des maîtres et morale des esclaves]]).
+- L'égalité est une valeur de la morale des esclaves. Les faibles l'ont élevée au rang de bien pour niveler les forts.
 - « Les hommes ne sont pas égaux », dit Zarathoustra aux « tarentules », les prédicateurs de l'égalité. Sous leur justice, il entend la vengeance (*Zarathoustra*, II, « Des tarentules »).
 - La morale aristocratique fait au contraire de la distance et de la hiérarchie entre les hommes des valeurs : le « pathos de la distance » (*Par-delà bien et mal*, §257).
 
@@ -28,11 +28,8 @@ L'intérêt des dominés, c'est l'égalité — « la mort des privilèges », c
 - Mill : liberté et égalité en tension dans l'utilitarisme libéral.
 
 ## Relations
-critique:: [[Friedrich Nietzsche]]
-s_oppose_à:: [[Morale des maîtres et morale des esclaves]]
-pose_la_question:: [[Qu'est-ce qu'une cité juste ?]]
-s_oppose_à:: [[Exploitation]]
-prolonge:: [[La Liberté]]
+s_oppose_à:: [[Morale des maîtres et morale des esclaves]] — pour Nietzsche, l'égalité est la valeur par laquelle les faibles nivellent les forts
+pose_la_question:: [[Qu'est-ce qu'une cité juste ?]] — égalité réelle chez Marx, pathos de la distance chez Nietzsche
 
 > [!objection]
 > L'égalité réelle peut entrer en conflit avec la liberté : égaliser les conditions suppose une puissance qui redistribue, donc contraigne. Les régimes se réclamant de Marx ont souvent produit une égalité de façade et une nouvelle inégalité, celle des bureaucrates.

@@ -19,7 +19,7 @@ Il faut distinguer deux choses :
 ## Chez Nietzsche
 - « Il n'y a pas de phénomènes moraux, il n'y a qu'une interprétation morale des phénomènes » (*Par-delà bien et mal*, §108).
 - La **moraline** désigne le moralisme sentimental, la vertu qui fait la leçon (*L'Antéchrist*, §2 : « la vertu sans moraline »).
-- « Nul ne ment autant qu'un homme indigné » (*Par-delà bien et mal*, §26). C'est l'héritage de [[La Rochefoucauld]] et des moralistes, qui traquent les vices sous les vertus.
+- « Nul ne ment autant qu'un homme indigné » (*Par-delà bien et mal*, §26). C'est l'héritage de La Rochefoucauld et des moralistes, qui traquent les vices sous les vertus.
 - L'**immoralisme** de Nietzsche ne prône pas l'absence de règles. Il se place par-delà bien et mal pour juger les morales selon ce qu'elles font à la vie.
 
 > [!interpretation] Julien Rochedy
@@ -38,12 +38,8 @@ Tous deux remplacent la question « est-ce bien ? » par la question « quel rap
 - Mill : la morale comme calcul du plus grand bonheur.
 
 ## Relations
-prolonge:: [[Généalogie]]
-illustre:: [[Morale des maîtres et morale des esclaves]] · [[Mauvaise conscience]]
-influencé_par:: [[La Rochefoucauld]]
-critique:: [[Marx]]
-illustre:: [[Lutte des classes]]
-pose_la_question:: [[D'où viennent nos valeurs ?]]
+influencé_par:: [[La Rochefoucauld]] — démasquer l'amour-propre sous les vertus
+s_oppose_à:: [[Lutte des classes]] — Marx refuse de juger l'histoire en termes de bien et de mal
 
 > [!objection]
 > Si toute valeur morale masque un intérêt, la critique de Nietzsche en masque un aussi, et celle de Rochedy à plus forte raison. Dénoncer la morale des autres au nom de la vie, de la grandeur ou de la civilisation reste une morale. La moraline n'a pas de camp.

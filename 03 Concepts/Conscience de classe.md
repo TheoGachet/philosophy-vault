@@ -22,13 +22,13 @@ Le vocabulaire vient de Hegel. Tout l'enjeu politique est le passage de l'une à
 
 ## Chez Marx
 - **La bourgeoisie est plus consciente.** Elle a quelque chose à surveiller, les moyens de production. Quand ses intérêts sont menacés, elle ne descend pas dans la rue : elle agit par licenciements, délocalisations, restructurations et lois.
-- **Empêcher cette conscience est un levier de domination**, par l'[[Idéologie]].
-- **La conscience naît de la lutte.** Dans une grève, les ouvriers se positionnent face à un adversaire, donc se définissent. Ils découvrent leur pouvoir réel, car le capitaliste ne peut rien sans eux (voir [[Dialectique du maître et de l'esclave]]). La lutte est le vecteur de la conscience de soi.
+- **Empêcher cette conscience est un levier de domination**, par l'Idéologie.
+- **La conscience naît de la lutte.** Dans une grève, les ouvriers se positionnent face à un adversaire, donc se définissent. Ils découvrent leur pouvoir réel, car le capitaliste ne peut rien sans eux. La lutte est le vecteur de la conscience de soi.
 
 ## Relations
-s_oppose_à:: [[Idéologie]]
-prolonge:: [[Lutte des classes]]
-illustre:: [[Révolution]]
+s_oppose_à:: [[Idéologie]] — l'idéologie dominante empêche les dominés de se savoir classe
+naît_de:: [[Lutte des classes]] — on prend conscience de soi en luttant contre un adversaire
+prolonge:: [[Dialectique du maître et de l'esclave]] — le travailleur découvre que le maître dépend de lui
 
 > [!objection]
 > Il y a un cercle. La conscience naît de la lutte, mais lutter suppose déjà de se savoir exploité : qu'est-ce qui vient en premier ? Et la notion d'intérêts « objectifs » de classe pose une question : qui fixe ces vrais intérêts, contre ce que les membres de la classe pensent eux-mêmes vouloir ? On ouvre la porte à une avant-garde qui décrète la conscience que le prolétariat *devrait* avoir.

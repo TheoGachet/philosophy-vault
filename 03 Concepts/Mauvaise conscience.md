@@ -28,7 +28,8 @@ cree: 2026-11-08
 - Pinker : le déclin de la violence.
 
 ## Relations
-illustre:: [[Morale]] · [[Nihilisme]]
+explique:: [[Morale]] — elle est la première raison pour laquelle la morale tient même les forts
+illustre:: [[Nihilisme]] — c'est la culpabilité et le masochisme d'une civilisation
 
 > [!objection]
 > L'idée que la culpabilité vient d'une cruauté contrariée est féconde : Freud la reprendra. Mais elle rend suspecte toute autocritique. Or reconnaître une faute réelle, individuelle ou historique, n'est pas forcément une pathologie : c'est aussi ce qui permet de la réparer. La difficulté est de séparer la lucidité du masochisme, et le concept seul ne le permet pas.
