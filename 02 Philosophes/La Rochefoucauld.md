@@ -30,7 +30,4 @@ Nietzsche lit les moralistes français, La Rochefoucauld, Chamfort, Vauvenargues
 ## Concepts clés
 [[Morale]] · [[Généalogie]] (avant la lettre)
 
-## Relations
-influence:: [[Friedrich Nietzsche]]
-
 > [!moi]

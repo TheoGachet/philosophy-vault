@@ -21,7 +21,7 @@ Deux classes s'y font face : ceux qui possèdent les moyens de production et ceu
 
 **Ses contradictions internes.** Pour maintenir le profit, il faut baisser sans cesse les coûts : machines, productivité, salaires. Or ces leviers s'épuisent, et le taux de profit tend à baisser : c'est la *baisse tendancielle du taux de profit* (*Le Capital*, livre III #à-vérifier). Les entreprises les moins compétitives se font absorber et le capital se concentre. Les travailleurs, plus pauvres, paient des marchandises plus chères, jusqu'à la crise.
 
-**Il produit ses fossoyeurs.** En se développant, il fabrique le prolétariat qui l'abolira. Voir [[Le capitalisme produit les conditions de sa propre abolition (Marx)]].
+**Il produit ses fossoyeurs.** En se développant, il fabrique le prolétariat qui l'abolira.
 
 ## Pistes de lecture
 - Adam Smith : la main invisible, la division du travail.
@@ -29,10 +29,8 @@ Deux classes s'y font face : ceux qui possèdent les moyens de production et ceu
 - Hayek : le marché comme ordre spontané et le savoir dispersé.
 
 ## Relations
-s_oppose_à:: [[Communisme]]
-prolonge:: [[Exploitation]] · [[Le Travail]]
-illustre:: [[Lutte des classes]]
-pose_la_question:: [[Qu'est-ce qu'une cité juste ?]]
+s_oppose_à:: [[Communisme]] — le communisme doit naître de ses contradictions internes
+repose_sur:: [[Exploitation]] — le profit vient de la force de travail achetée sous sa valeur
 
 > [!objection]
 > La baisse tendancielle du taux de profit est contestée jusque chez les économistes marxistes (théorème d'Okishio) : les gains de productivité peuvent faire remonter le profit. Jusqu'ici, le capitalisme a absorbé ses crises (crédit, État social, mondialisation) au lieu de s'effondrer. Une tendance n'est pas un destin.

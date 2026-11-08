@@ -18,7 +18,7 @@ cree: 2026-11-08
 - « Jadis tout le monde était fou », disent-ils, convaincus d'être plus éclairés que tous leurs ancêtres.
 - Un peu de poison de temps en temps, pour avoir des rêves agréables. On travaille encore, car le travail distrait, mais sans qu'il fatigue.
 
-La foule réclame ce dernier homme à Zarathoustra, qui voulait lui annoncer le [[Surhomme]].
+La foule réclame ce dernier homme à Zarathoustra, qui voulait lui annoncer le Surhomme.
 
 > [!interpretation] Julien Rochedy
 > Pour lui, c'est l'homme postmoderne : quête du bien-être, de la facilité et de la consommation, égalitarisme, désacralisation, médicaments et anxiolytiques. Il précise : « c'est vous, c'est moi ». Il compare le jeune en boîte de nuit à un petit vieux.
@@ -29,9 +29,9 @@ La foule réclame ce dernier homme à Zarathoustra, qui voulait lui annoncer le 
 - Fukuyama, *La Fin de l'histoire et le dernier homme* (1992).
 
 ## Relations
-s_oppose_à:: [[Surhomme]]
-illustre:: [[Nihilisme]]
-prolonge:: [[Bonheur]] · [[Démocratie]]
+illustre:: [[Nihilisme]] — c'est la forme passive du nihilisme : ne plus rien vouloir de grand
+s_oppose_à:: [[Bonheur]] — il croit avoir inventé le bonheur, réduit au confort
+illustre:: [[Démocratie]] — un seul troupeau, tous égaux, tous voulant la même chose
 
 > [!objection]
 > Le portrait est saisissant, mais commode : chacun peut l'appliquer à ceux qu'il méprise. Le confort et la sécurité ne sont pas forcément vides : ils libèrent du temps pour l'art et la pensée. Nietzsche lui-même a pu écrire grâce à la pension de l'université de Bâle.

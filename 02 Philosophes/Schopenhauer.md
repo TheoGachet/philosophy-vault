@@ -20,8 +20,8 @@ cree: 2026-11-08
 
 ## Rôle pour Nietzsche
 - C'est sa lecture qui fait de Nietzsche, philologue, un philosophe : voir *Schopenhauer éducateur*, troisième *Considération inactuelle*, 1874.
-- Son pessimisme offre à Nietzsche un antidote à l'optimisme historique de [[Hegel]].
-- Puis Nietzsche rompt. Il garde l'idée d'une volonté au fond des choses, mais au vouloir-vivre qui se nie, il oppose la [[Volonté de puissance]], qui veut croître. Au pessimisme du renoncement, il oppose l'amour du destin.
+- Son pessimisme offre à Nietzsche un antidote à l'optimisme historique de Hegel.
+- Puis Nietzsche rompt. Il garde l'idée d'une volonté au fond des choses, mais au vouloir-vivre qui se nie, il oppose la Volonté de puissance, qui veut croître. Au pessimisme du renoncement, il oppose l'amour du destin.
 
 ## Concepts clés
 - Le vouloir-vivre (voir [[Volonté de puissance]] pour la reprise critique par Nietzsche)
@@ -30,7 +30,6 @@ cree: 2026-11-08
 *Le Monde comme volonté et comme représentation* (1819) · *Aphorismes sur la sagesse dans la vie* (1851)
 
 ## Relations
-influence:: [[Friedrich Nietzsche]]
-s_oppose_à:: [[Hegel]]
+s_oppose_à:: [[Hegel]] — le pessimisme contre l'optimisme historique
 
 > [!moi]

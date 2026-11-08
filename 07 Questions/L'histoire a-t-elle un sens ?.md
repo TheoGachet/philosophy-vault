@@ -17,10 +17,7 @@ cree: 2026-11-08
 - **Ni progrès ni fin, l'éternel retour** — [[Friedrich Nietzsche]] : il n'y a pas de but final, ni au-delà ni dans l'avenir. Le sens n'est pas donné par l'histoire, il est à créer. Nietzsche tient le progressisme hégélien pour une « niaiserie » (voir [[Éternel retour]]).
 
 ## Tensions
-Un sens de l'histoire rend-il la prédiction possible (Marx annonce l'effondrement) ou n'est-ce qu'une foi déguisée en science ? Voir [[Le capitalisme produit les conditions de sa propre abolition (Marx)]].
-
-## Relations
-pose_la_question:: [[Matérialisme]]
+Un sens de l'histoire rend-il la prédiction possible (Marx annonce l'effondrement) ou n'est-ce qu'une foi déguisée en science ?
 
 > [!moi]
 > *Ma position provisoire.*

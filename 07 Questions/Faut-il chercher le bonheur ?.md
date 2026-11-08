@@ -21,10 +21,7 @@ cree: 2026-11-08
 - Kant : le bonheur ne fonde pas la morale.
 
 ## Tensions
-Celui qui a une œuvre peut mépriser le bonheur. Celui qui a faim ne le peut pas. Et une vie faite seulement de bien-être finit-elle dans le [[Dernier homme]] ?
-
-## Relations
-pose_la_question:: [[Bonheur]] · [[Amor fati]]
+Celui qui a une œuvre peut mépriser le bonheur. Celui qui a faim ne le peut pas. Et une vie faite seulement de bien-être finit-elle dans le Dernier homme ?
 
 > [!moi]
 > *Ma position provisoire.*

@@ -37,10 +37,10 @@ cree: 2026-11-07
 - Thèse de doctorat sur Démocrite et Épicure
 
 ## Le renversement de Hegel
-Marx hérite de [[Hegel]] la vision dialectique de l'histoire (un sens, des étapes, le négatif comme moteur du positif) mais en renverse le principe : chez Hegel, l'Idée prime et s'incarne dans la matière ; chez Marx, c'est la matière qui, par le mouvement de l'histoire, fait émerger l'esprit. Il « remet Hegel sur ses pieds ».
+Marx hérite de Hegel la vision dialectique de l'histoire (un sens, des étapes, le négatif comme moteur du positif) mais en renverse le principe : chez Hegel, l'Idée prime et s'incarne dans la matière ; chez Marx, c'est la matière qui, par le mouvement de l'histoire, fait émerger l'esprit. Il « remet Hegel sur ses pieds ».
 
 ## Relations
-influencé_par:: [[Hegel]]
+influencé_par:: [[Hegel]] — la dialectique et le sens de l'histoire, remis sur leurs pieds
 
 > [!objection]
 > Les tentatives de mise en application (URSS, Chine, Cuba) ont donné des régimes bureaucratiques exploitant les travailleurs au nom de l'égalité. Marx lui-même : « tout ce que je sais, c'est que je ne suis pas marxiste ». Reste la question de l'orateur : être marxiste, est-ce citer Marx, ou agir pour l'émancipation réelle ? #à-vérifier

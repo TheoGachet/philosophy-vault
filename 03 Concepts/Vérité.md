@@ -27,8 +27,8 @@ cree: 2026-11-08
 - Foucault : les « régimes de vérité ».
 
 ## Relations
-prolonge:: [[Généalogie]]
-illustre:: [[Volonté de puissance]]
+dérive_de:: [[Volonté de puissance]] — pour Nietzsche, toute vérité est une perspective au service d'une vie
+prolonge:: [[Généalogie]] — il faut demander qui veut cette vérité, et pourquoi
 
 > [!objection]
 > Le relativisme radical se réfute lui-même : « tout est subjectif » prétend être objectivement vrai. Nietzsche est plus subtil que la lecture de Rochedy. Il ne réclame pas l'indifférence au vrai, mais davantage de perspectives et plus de probité. Rochedy lui-même répète que « la science prouve » Nietzsche : il a besoin de la vérité qu'il congédie.

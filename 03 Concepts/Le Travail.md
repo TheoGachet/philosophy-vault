@@ -15,7 +15,7 @@ cree: 2026-11-08
 Le travail est ambivalent : il est ce qui rend l'homme autonome (il sait faire, il produit) et ce par quoi il est dominé (il vend sa force de travail pour survivre). Cette ambivalence traverse toute la philosophie du travail, de l'émancipation à l'aliénation.
 
 ## Chez Marx
-Le prolétaire ne possède que sa **force de travail**, marchandise qu'il vend au capitaliste. Sous le machinisme et la division du travail, l'ouvrier perd sa personnalité et devient « un simple appendice de la machine ». Pourtant c'est lui qui produit toute la valeur : d'où le renversement de la [[Dialectique du maître et de l'esclave]], où le travailleur découvre que le maître dépend de lui.
+Le prolétaire ne possède que sa **force de travail**, marchandise qu'il vend au capitaliste. Sous le machinisme et la division du travail, l'ouvrier perd sa personnalité et devient « un simple appendice de la machine ». Pourtant c'est lui qui produit toute la valeur : d'où le renversement de la Dialectique du maître et de l'esclave, où le travailleur découvre que le maître dépend de lui.
 
 ## Pistes de lecture
 - Hegel : le travail comme médiation par laquelle la conscience se forme.
@@ -23,9 +23,7 @@ Le prolétaire ne possède que sa **force de travail**, marchandise qu'il vend a
 - Simone Weil : la condition ouvrière et l'attention.
 
 ## Relations
-pose_la_question:: [[Qu'est-ce que le travail ?]]
-illustre:: [[Exploitation]]
-prolonge:: [[Dialectique du maître et de l'esclave]]
+pose_la_question:: [[Qu'est-ce que le travail ?]] — il émancipe et il asservit à la fois
 
 > [!objection]
 > Faire du travail la source de toute valeur (théorie de la valeur-travail) est contesté : l'utilité, la rareté, la demande entrent aussi dans le prix. Et réduire le travail à l'emploi salarié laisse de côté le travail domestique, le soin, le bénévolat — pourtant indispensables.

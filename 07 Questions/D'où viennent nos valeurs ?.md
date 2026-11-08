@@ -12,9 +12,9 @@ cree: 2026-11-08
 **Formulation.** *Nos valeurs (bien, juste, égal) sont-elles découvertes, données ou fabriquées ? Si elles ont une origine intéressée, peuvent-elles encore valoir ?*
 
 ## Réponses en présence
-- **D'un type de vie qui s'affirme ou se venge** — [[Friedrich Nietzsche]] : la [[Généalogie]] révèle derrière chaque morale une [[Volonté de puissance]], forte ou faible (voir [[Morale des maîtres et morale des esclaves]]).
+- **D'un type de vie qui s'affirme ou se venge** — [[Friedrich Nietzsche]] : la [[Généalogie]] révèle derrière chaque morale une Volonté de puissance, forte ou faible.
 - **Des intérêts d'une classe** — [[Marx]] : les idées dominantes sont celles de la classe dominante (voir [[Idéologie]]).
-- **De Dieu** — la tradition chrétienne : la loi est révélée (voir [[Christianisme]]). Après la [[Mort de Dieu]], la question devient brûlante.
+- **De Dieu** — la tradition chrétienne : la loi est révélée (voir [[Christianisme]]). Après la Mort de Dieu, la question devient brûlante.
 
 ## Pistes de lecture
 - Kant, *Fondements de la métaphysique des mœurs* : les valeurs viennent de la raison, universelle.
@@ -22,9 +22,6 @@ cree: 2026-11-08
 
 ## Tensions
 Il faut distinguer la **genèse** et la **validité** : expliquer d'où vient une valeur ne dit pas si elle vaut. Le soupçon est aussi réflexif : celui qui démasque les valeurs des autres a, lui aussi, des valeurs à faire triompher.
-
-## Relations
-pose_la_question:: [[Morale]] · [[Généalogie]]
 
 > [!moi]
 > *Ma position provisoire.*

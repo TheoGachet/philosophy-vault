@@ -27,10 +27,9 @@ cree: 2026-11-08
 - Rousseau : la volonté générale.
 
 ## Relations
-prolonge:: [[Égalité]] · [[Christianisme]]
-illustre:: [[Dernier homme]] · [[Nihilisme]]
-s_oppose_à:: [[Morale des maîtres et morale des esclaves]]
-pose_la_question:: [[Qu'est-ce qu'une cité juste ?]]
+dérive_de:: [[Christianisme]] — pour Nietzsche, c'est un christianisme sécularisé
+prolonge:: [[Égalité]] — elle fait de l'égalité une institution
+pose_la_question:: [[Qu'est-ce qu'une cité juste ?]] — le nombre ou les meilleurs ?
 
 > [!objection]
 > La critique aristocratique suppose qu'on sache qui sont « les meilleurs », et qu'ils gouverneraient pour tous. L'histoire réelle des aristocraties le dément souvent. La démocratie n'empêche pas l'excellence individuelle en art, en science ou en sport. Elle refuse seulement que cette excellence donne des droits politiques supérieurs.

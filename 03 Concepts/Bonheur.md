@@ -18,7 +18,7 @@ cree: 2026-11-08
 - Supprimer toute souffrance, c'est supprimer ce qui élève. La discipline de la grande souffrance a fait tout ce qu'il y a de grand dans l'homme (*Par-delà bien et mal*, §225).
 
 > [!interpretation] Julien Rochedy
-> Le « carpe diem », la quête du bien-être et les anxiolytiques seraient un idéal de vieillard. Chercher le bonheur, c'est supposer qu'on ne l'a pas. Si on ne le trouve pas, on accuse la société, et le nihilisme pointe. Il cite deux phrases attribuées à Nietzsche : à un ami qui se marie, « je ne vous souhaite pas le bonheur, je vous souhaite de le garder » #à-vérifier ; et « les arbres de la forêt ne luttent pas pour le bonheur, mais pour la puissance » #à-vérifier. Il voit enfin dans la quête du bonheur un marché qui fait tourner la machine du [[Capitalisme]], jusqu'au bonheur vendu en pilules.
+> Le « carpe diem », la quête du bien-être et les anxiolytiques seraient un idéal de vieillard. Chercher le bonheur, c'est supposer qu'on ne l'a pas. Si on ne le trouve pas, on accuse la société, et le nihilisme pointe. Il cite deux phrases attribuées à Nietzsche : à un ami qui se marie, « je ne vous souhaite pas le bonheur, je vous souhaite de le garder » #à-vérifier ; et « les arbres de la forêt ne luttent pas pour le bonheur, mais pour la puissance » #à-vérifier. Il voit enfin dans la quête du bonheur un marché qui fait tourner la machine du Capitalisme, jusqu'au bonheur vendu en pilules.
 
 ## Pistes de lecture
 - Aristote : l'*eudaimonia*, fin ultime, comme activité vertueuse.
@@ -27,10 +27,8 @@ cree: 2026-11-08
 - Kant : le bonheur ne fonde pas la morale.
 
 ## Relations
-s_oppose_à:: [[Dernier homme]]
-prolonge:: [[Volonté de puissance]]
-illustre:: [[Capitalisme]]
-pose_la_question:: [[Faut-il chercher le bonheur ?]]
+dérive_de:: [[Volonté de puissance]] — pour Nietzsche, le bonheur est le sentiment que la puissance croît, pas un but
+pose_la_question:: [[Faut-il chercher le bonheur ?]] — l'œuvre ou le bien-être ?
 
 > [!objection]
 > Il est facile de mépriser le bonheur quand on a une œuvre. Pour qui a faim ou souffre, le bien-être n'est pas une mollesse, c'est une condition. L'héroïsme de l'œuvre a aussi un coût que d'autres paient souvent : les proches, ceux qui servent.

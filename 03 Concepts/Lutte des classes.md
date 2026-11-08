@@ -21,16 +21,15 @@ L'histoire de toute société est, selon Marx, celle de la lutte des classes. La
 
 ## Chez Nietzsche
 - La domination d'une minorité de forts sur une majorité est, pour Nietzsche, un fait de toute l'histoire : c'est le point de départ de la *Généalogie de la morale*.
-- Mais les dominés ne se révoltent pas d'abord par les armes. Ils se révoltent par la morale, en inversant les valeurs : c'est la [[Morale des maîtres et morale des esclaves]]. Là où Marx voit une lutte d'intérêts, Nietzsche voit une lutte de types de vie et de valeurs.
+- Mais les dominés ne se révoltent pas d'abord par les armes. Ils se révoltent par la morale, en inversant les valeurs : c'est la Morale des maîtres et morale des esclaves. Là où Marx voit une lutte d'intérêts, Nietzsche voit une lutte de types de vie et de valeurs.
 
 > [!interpretation] Julien Rochedy
 > Il illustre par les conquêtes de peuples guerriers sur des populations paysannes. Il ajoute que les hiérarchies se reforment partout, y compris dans les sociétés communistes, avec les apparatchiks.
 
 ## Relations
-illustre:: [[Matérialisme]]
-prolonge:: [[Exploitation]]
-s_oppose_à:: [[Morale des maîtres et morale des esclaves]]
-pose_la_question:: [[Qu'est-ce qu'une cité juste ?]]
+prolonge:: [[Exploitation]] — l'antagonisme naît du rapport entre propriétaires et vendeurs de force de travail
+dérive_de:: [[Matérialisme]] — ce sont les rapports matériels qui font l'histoire
+s_oppose_à:: [[Morale des maîtres et morale des esclaves]] — Marx voit une lutte d'intérêts, Nietzsche une lutte de valeurs et de types de vie
 
 > [!objection]
 > Deux classes suffisent-elles à décrire une société ? Les classes moyennes, les indépendants, les fonctions qui ne se rangent ni comme purs propriétaires ni comme purs prolétaires résistent au partage binaire. Et des conflits majeurs — nation, religion, genre — ne se réduisent pas à la position dans l'appareil de production.

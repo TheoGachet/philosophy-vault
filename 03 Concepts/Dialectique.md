@@ -20,7 +20,7 @@ Le mot a changé de sens. Chez les Grecs, c'est l'art du dialogue qui fait appar
 - **La matière plutôt que l'Idée.** Marx garde la dialectique de Hegel mais en change le support : ce sont les rapports matériels qui se contredisent et se dépassent, non l'Esprit.
 
 ## Chez Nietzsche
-- La dialectique socratique est l'arme du plébéien : elle force les nobles à se justifier, donc les met en position d'accusés. « Ce qui doit d'abord se faire prouver ne vaut pas grand-chose » (*Crépuscule des idoles*, « Le problème de Socrate »). Voir [[Raison]].
+- La dialectique socratique est l'arme du plébéien : elle force les nobles à se justifier, donc les met en position d'accusés. « Ce qui doit d'abord se faire prouver ne vaut pas grand-chose » (*Crépuscule des idoles*, « Le problème de Socrate »).
 - Nietzsche méprise aussi la dialectique hégélienne de l'histoire, qu'il tient pour un optimisme naïf hérité de la théologie.
 
 ## Pistes de lecture
@@ -29,10 +29,8 @@ Le mot a changé de sens. Chez les Grecs, c'est l'art du dialogue qui fait appar
 - Héraclite : un ancêtre, avec l'unité des contraires et le conflit « père de toutes choses ».
 
 ## Relations
-critique:: [[Friedrich Nietzsche]] · [[Socrate]]
-influencé_par:: [[Hegel]]
-illustre:: [[Dialectique du maître et de l'esclave]]
-pose_la_question:: [[L'histoire a-t-elle un sens ?]]
+pose_la_question:: [[L'histoire a-t-elle un sens ?]] — si le négatif est une étape du positif, l'histoire va quelque part
+s_oppose_à:: [[Raison]] — pour Nietzsche, la dialectique socratique est l'arme de la raison contre les instincts
 
 > [!objection]
 > Une dialectique qui fait de tout négatif une étape vers le positif devient infalsifiable. Chaque échec, chaque défaite, chaque contre-exemple peut être relu après coup comme un « moment nécessaire ». Popper y voyait le défaut majeur des philosophies de l'histoire : elles expliquent tout, donc elles ne prédisent rien de vérifiable.

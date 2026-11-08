@@ -19,8 +19,8 @@ cree: 2026-11-08
 
 ## Le « problème de Socrate » selon Nietzsche
 Dans *Crépuscule des idoles*, Nietzsche voit en Socrate le début de la décadence grecque, et non son apogée. Les présocratiques (Héraclite, Parménide) lui paraissent plus profonds.
-- Socrate pose l'équation raison = vertu = bonheur. C'est le symptôme d'instincts déréglés, qui se jettent sur la raison comme sur un remède (voir [[Raison]]).
-- La [[Dialectique]] est l'arme du plébéien : elle oblige les nobles à se justifier. Or « ce qui doit d'abord se faire prouver ne vaut pas grand-chose ».
+- Socrate pose l'équation raison = vertu = bonheur. C'est le symptôme d'instincts déréglés, qui se jettent sur la raison comme sur un remède.
+- La Dialectique est l'arme du plébéien : elle oblige les nobles à se justifier. Or « ce qui doit d'abord se faire prouver ne vaut pas grand-chose ».
 - Le platonisme, puis le christianisme, héritent de cette primauté de la raison et d'un « vrai monde » au-delà de celui-ci.
 
 > [!interpretation] Julien Rochedy
@@ -28,9 +28,6 @@ Dans *Crépuscule des idoles*, Nietzsche voit en Socrate le début de la décade
 
 ## Concepts clés
 [[Raison]] · [[Dialectique]]
-
-## Relations
-critique:: [[Friedrich Nietzsche]]
 
 > [!objection]
 > Le portrait est polémique. Nous ne connaissons Socrate que par d'autres, surtout par Platon. Nietzsche lui-même admire la manière dont Socrate meurt, et l'appelle ailleurs un « bouffon » qui sut se faire prendre au sérieux. Il combat en lui une figure de la raison plus qu'un homme.

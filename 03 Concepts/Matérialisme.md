@@ -21,7 +21,7 @@ Le matérialisme s'oppose à l'idéalisme, pour qui l'idée ou l'esprit est prem
 - **Ses racines antiques.** Sa thèse de doctorat porte sur Démocrite et Épicure.
 
 ## Chez Nietzsche
-- « Nous sommes avant tout notre corps. » L'alimentation, l'air, le climat et la marche influencent la pensée. Toute philosophie est le symptôme d'un corps, sain ou malade (voir [[Corps]]).
+- « Nous sommes avant tout notre corps. » L'alimentation, l'air, le climat et la marche influencent la pensée. Toute philosophie est le symptôme d'un corps, sain ou malade.
 - Ce n'est pas un matérialisme métaphysique comme celui des atomistes : c'est une physiologie de la pensée. L'esprit n'est pas séparé du corps, c'en est la « petite raison ».
 
 > [!interpretation] Julien Rochedy
@@ -33,8 +33,8 @@ Le matérialisme s'oppose à l'idéalisme, pour qui l'idée ou l'esprit est prem
 - Spinoza : ni matérialiste ni idéaliste, une seule substance.
 
 ## Relations
-s_oppose_à:: [[Hegel]]
-illustre:: [[Lutte des classes]] · [[Idéologie]] · [[Corps]]
+s_oppose_à:: [[Hegel]] — Marx remet sur ses pieds la dialectique idéaliste
+prolonge:: [[Corps]] — chez Nietzsche, une physiologie de la pensée plutôt qu'un matérialisme de l'histoire
 
 > [!objection]
 > Le matérialisme historique a du mal à rendre compte de sa propre possibilité. Si toute conscience reflète une position sociale, la théorie de Marx reflète aussi la sienne. D'où tirerait-elle alors sa vérité ? Pour décrire sa condition, il faut une pensée capable de s'en arracher, et c'est précisément ce que la thèse semble interdire.
