@@ -3,7 +3,7 @@ type: concept
 aliases: [idéologie, idéologie dominante, aliénation idéologique, fausse conscience]
 tags: [politique]
 statut: en_cours
-sources: ["[[Marx, la lutte des classes — vidéo (Le Précepteur ?)]]"]
+sources: ["[[Marx, la lutte des classes — vidéo (Le Précepteur ?)]]", "[[Nietzsche, conférence — Julien Rochedy]]"]
 cree: 2026-11-08
 ---
 
@@ -20,11 +20,15 @@ L'idéologie ne ment pas forcément : elle naturalise. Elle fait passer pour év
 - **Des formes concrètes** (exemple de l'orateur de la vidéo) : télévision, cinéma, séries. On s'y identifie à des personnages affranchis de l'impératif de production, et l'on finit par se croire soi-même affranchi de sa classe.
 - **La religion, « opium du peuple »**, en est une forme.
 
+## Chez Nietzsche
+- La [[Généalogie]] est un autre soupçon, plus profond que celui de Marx. Derrière une valeur, elle ne cherche pas une classe, mais un type de vie, fort ou faible, montant ou déclinant.
+- Les grands idéaux (justice, amour, égalité) peuvent masquer l'esprit de vengeance (voir [[Ressentiment]]).
+
 ## Chez d'autres (à venir)
-- [[Friedrich Nietzsche]] : la généalogie démasque les valeurs comme expression d'intérêts vitaux, ceux des faibles contre les forts.
 - [[Foucault]] : le savoir-pouvoir, au-delà du schéma de la classe dominante.
 
 ## Relations
+prolonge:: [[Généalogie]]
 s_oppose_à:: [[Conscience de classe]]
 prolonge:: [[Matérialisme]] · [[Le Pouvoir]]
 illustre:: [[Lutte des classes]]

@@ -3,7 +3,7 @@ type: concept
 aliases: [dialectique, vision dialectique]
 tags: [métaphysique, logique-langage]
 statut: en_cours
-sources: ["[[Marx, la lutte des classes — vidéo (Le Précepteur ?)]]"]
+sources: ["[[Marx, la lutte des classes — vidéo (Le Précepteur ?)]]", "[[Nietzsche, conférence — Julien Rochedy]]"]
 cree: 2026-11-08
 ---
 
@@ -19,12 +19,17 @@ Le mot a changé de sens. Chez les Grecs, c'est l'art du dialogue qui fait appar
 - **Le capitalisme travaille à sa propre perte.** Chacun de ses pas en avant est un pas vers son abolition : il doit aller au bout de sa logique pour s'autodétruire.
 - **La matière plutôt que l'Idée.** Marx garde la dialectique de Hegel mais en change le support : ce sont les rapports matériels qui se contredisent et se dépassent, non l'Esprit.
 
+## Chez Nietzsche
+- La dialectique socratique est l'arme du plébéien : elle force les nobles à se justifier, donc les met en position d'accusés. « Ce qui doit d'abord se faire prouver ne vaut pas grand-chose » (*Crépuscule des idoles*, « Le problème de Socrate »). Voir [[Raison]].
+- Nietzsche méprise aussi la dialectique hégélienne de l'histoire, qu'il tient pour un optimisme naïf hérité de la théologie.
+
 ## Chez d'autres (à venir)
 - [[Socrate]] et [[Platon]] : la dialectique comme dialogue qui remonte vers les Idées.
 - [[Hegel]] : la dialectique de l'Esprit, dont la [[Dialectique du maître et de l'esclave]] est la figure la plus célèbre.
 - [[Héraclite]] : un ancêtre, avec l'unité des contraires et le conflit « père de toutes choses ».
 
 ## Relations
+critique:: [[Friedrich Nietzsche]] · [[Socrate]]
 influencé_par:: [[Hegel]] · [[Héraclite]]
 illustre:: [[Dialectique du maître et de l'esclave]]
 pose_la_question:: [[L'histoire a-t-elle un sens ?]]
