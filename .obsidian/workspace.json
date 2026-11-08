@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Concepts/Capitalisme.md",
+                "file": "03 Concepts/Christianisme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capitalisme"
+              "title": "Christianisme"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Concepts/Capitalisme.md",
+                "file": "03 Concepts/Christianisme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Concepts/Capitalisme.md",
+                "file": "03 Concepts/Christianisme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Concepts/Capitalisme.md",
+                "file": "03 Concepts/Christianisme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,38 +191,38 @@
   },
   "active": "1054d38695b4f0a6",
   "lastOpenFiles": [
-    "03 Concepts/Conscience de classe.md",
-    "07 Questions/Qu'est-ce que le travail ?.md",
     "07 Questions/L'histoire a-t-elle un sens ?.md",
-    "03 Concepts/Communisme.md",
-    "03 Concepts/La Liberté.md",
-    "03 Concepts/Baisse tendancielle du taux de profit.md",
-    "03 Concepts/Révolution.md",
-    "03 Concepts/Matérialisme.md",
-    "03 Concepts/Idéologie.md",
-    "03 Concepts/Dialectique.md",
+    "07 Questions/Faut-il chercher le bonheur ?.md",
+    "03 Concepts/Surhomme.md",
+    "03 Concepts/Éternel retour.md",
     "03 Concepts/Capitalisme.md",
-    "03 Concepts/Exploitation.md",
-    "03 Concepts/Égalité.md",
-    "03 Concepts/Dialectique du maître et de l'esclave.md",
+    "07 Questions/Qu'est-ce qu'une cité juste ?.md",
+    "07 Questions/La vie a-t-elle un sens ?.md",
+    "07 Questions/D'où viennent nos valeurs ?.md",
+    "04 Arguments/Tout revient éternellement (Nietzsche).md",
+    "04 Arguments/Les valeurs morales expriment un type de vie (Nietzsche).md",
+    "03 Concepts/État.md",
+    "03 Concepts/Vérité.md",
+    "03 Concepts/Volonté de puissance.md",
+    "03 Concepts/Ressentiment.md",
+    "03 Concepts/Raison.md",
+    "03 Concepts/Nihilisme.md",
+    "03 Concepts/Mort de Dieu.md",
+    "03 Concepts/Morale.md",
+    "03 Concepts/Morale des maîtres et morale des esclaves.md",
+    "03 Concepts/Mauvaise conscience.md",
+    "03 Concepts/Généalogie.md",
+    "03 Concepts/Démocratie.md",
+    "03 Concepts/Dernier homme.md",
+    "03 Concepts/Corps.md",
+    "03 Concepts/Christianisme.md",
+    "03 Concepts/Bonheur.md",
     "07 Questions",
-    "04 Arguments/Le capitalisme produit les conditions de sa propre abolition (Marx).md",
     "04 Arguments",
-    "03 Concepts/Matérialisme historique.md",
-    "03 Concepts/Lutte des classes.md",
-    "03 Concepts/Le Travail.md",
-    "03 Concepts/Le Pouvoir.md",
-    "03 Concepts/Classe en soi et classe pour soi.md",
-    "03 Concepts/Aliénation idéologique.md",
     "03 Concepts",
-    "02 Philosophes/Marx.md",
     "02 Philosophes",
-    "01 Sources/Marx, la lutte des classes — vidéo (Le Précepteur ?).md",
     "01 Sources",
-    "_Meta/Journal.md",
     "_Meta",
-    "_Templates/Œuvre.md",
-    "_Templates/Source.md",
     "_Templates",
     "09 MOC",
     "08 Mes pensées",
