@@ -3,7 +3,7 @@ type: concept
 aliases: [nature humaine, anthropologie, pessimisme anthropologique, égoïsme, amour de soi]
 tags: [politique, éthique]
 statut: en_cours
-sources: ["[[Machiavel, l'art de gouverner — vidéo (Le Précepteur ?)]]"]
+sources: ["[[Machiavel, l'art de gouverner — vidéo (Le Précepteur ?)]]", "[[Le stoïcisme, trouver la paix intérieure — vidéo (Le Précepteur ?)]]"]
 cree: 2026-11-08
 ---
 
@@ -24,6 +24,9 @@ Les hommes sont jaloux, possessifs et soucieux de leur image ; ils se disputent 
 
 ## Augustin et Machiavel
 Tous deux voient l'homme mû par l'amour de soi. Pour Augustin, c'est un vice à surmonter : la cité doit élever vers l'amour de Dieu. Pour Machiavel, c'est un fait à exploiter : on gouverne par les vices, non contre eux.
+
+## Chez les stoïciens (lecture de la vidéo)
+L'homme a une dimension animale : instinct de conservation, lutte pour la survie, reproduction. L'animal n'a pas besoin de manuel, son instinct le guide. Mais l'homme a aussi le choix, et il désire au-delà du nécessaire, des choses inaccessibles ou qui ne dépendent pas de lui. C'est l'origine du tourment humain. La vidéo relie l'intelligence à la souffrance, voire à la folie, car l'intelligence multiplie les chemins.
 
 ## Pistes de lecture
 - Pascal, *Pensées* : l'homme « incapable de vrai et de bien ».

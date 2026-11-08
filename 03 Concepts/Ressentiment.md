@@ -3,7 +3,7 @@ type: concept
 aliases: [ressentiment, esprit de vengeance]
 tags: [éthique, politique]
 statut: en_cours
-sources: ["[[Nietzsche, conférence — Julien Rochedy]]"]
+sources: ["[[Nietzsche, conférence — Julien Rochedy]]", "[[Le stoïcisme, trouver la paix intérieure — vidéo (Le Précepteur ?)]]"]
 cree: 2026-11-08
 ---
 
@@ -22,12 +22,19 @@ cree: 2026-11-08
 > [!interpretation] Julien Rochedy
 > Le christianisme apaisait le ressentiment en renvoyant la vengeance au ciel : « À moi la vengeance, dit le Seigneur » (Romains 12, 19). Sans religion, le ressentiment se déchaîne sur le monde et cherche des coupables. Rochedy lit ainsi les militants progressistes. Il raconte aussi que sa propre découverte de Nietzsche, à 14 ans, s'est faite dans un rejet rageur de la bonne société.
 
+## Chez les stoïciens
+Le refus de ce qui est engendre du ressentiment, de l'aigreur et du regret. On se plaint que le monde est injuste et que l'univers conspire contre soi. Pour les stoïciens, le monde ne nous vise pas : le tourment vient de notre incapacité à comprendre pourquoi nous souffrons.
+
+## Nietzsche et les stoïciens
+Les deux sources décrivent le même mouvement : celui qui souffre cherche un coupable hors de lui. Nietzsche en fait le ressort de la morale des esclaves, et lui oppose l'amor fati. Les stoïciens en font une erreur de jugement, et lui opposent l'acceptation de ce qui ne dépend pas de nous. La différence tient à leur diagnostic : chez Nietzsche, une faiblesse vitale ; chez les stoïciens, une erreur de raison.
+
 ## Pistes de lecture
 - Max Scheler, *L'Homme du ressentiment*.
 - Dostoïevski, *Les Carnets du sous-sol*.
 - René Girard : le désir mimétique et le bouc émissaire.
 
 ## Relations
+s_oppose_à:: [[Ce qui dépend de nous]] — le stoïcien n'accuse pas le monde, il cherche ce qui dépend de lui
 illustre:: [[Nihilisme]] — la haine de ce qui est, qui a besoin d'un coupable
 
 > [!objection]

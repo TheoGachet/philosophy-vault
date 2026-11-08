@@ -3,7 +3,7 @@ type: concept
 aliases: [morale, moraline, valeurs morales, immoralisme]
 tags: [éthique]
 statut: en_cours
-sources: ["[[Marx, la lutte des classes — vidéo (Le Précepteur ?)]]", "[[Nietzsche, conférence — Julien Rochedy]]", "[[Machiavel, l'art de gouverner — vidéo (Le Précepteur ?)]]"]
+sources: ["[[Marx, la lutte des classes — vidéo (Le Précepteur ?)]]", "[[Nietzsche, conférence — Julien Rochedy]]", "[[Machiavel, l'art de gouverner — vidéo (Le Précepteur ?)]]", "[[Le stoïcisme, trouver la paix intérieure — vidéo (Le Précepteur ?)]]"]
 cree: 2026-11-08
 ---
 
@@ -36,6 +36,11 @@ Tous deux remplacent la question « est-ce bien ? » par la question « quel rap
 - La politique est indépendante de la morale. Si la morale aide à gouverner, on la suit ; si l'immoralité sert, on y va.
 - C'est un **amoralisme** et non un immoralisme : la question morale est évacuée, sans qu'on cherche systématiquement à s'y opposer. Il n'y a pas de bien ou de mal en soi, seulement des moyens au service d'une fin.
 - La vidéo y voit un « proto-utilitarisme » : l'action est jugée à ses résultats et non à ses principes, mesurés en pouvoir plutôt qu'en bonheur.
+
+## Chez les stoïciens (lecture de la vidéo)
+- La vidéo oppose la **morale**, qui commande (« agis ainsi »), punit par une autorité extérieure et repose sur un bien absolu et transcendant, à l'**éthique**, qui recommande, avertit des conséquences et rend responsable.
+- Le stoïcisme est une éthique : la sanction n'est pas une punition venue d'en haut, mais la réponse des lois naturelles à nos actes.
+- La vidéo renvoie explicitement à Nietzsche pour la critique du bien et du mal comme absolus.
 
 ## Pistes de lecture
 - Kant : la morale comme loi de la raison, universelle.

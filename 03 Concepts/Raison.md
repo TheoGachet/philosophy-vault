@@ -3,7 +3,7 @@ type: concept
 aliases: [raison, rationalisme, problème de Socrate, instinct]
 tags: [épistémologie, éthique]
 statut: en_cours
-sources: ["[[Marx, la lutte des classes — vidéo (Le Précepteur ?)]]", "[[Nietzsche, conférence — Julien Rochedy]]"]
+sources: ["[[Marx, la lutte des classes — vidéo (Le Précepteur ?)]]", "[[Nietzsche, conférence — Julien Rochedy]]", "[[Le stoïcisme, trouver la paix intérieure — vidéo (Le Précepteur ?)]]"]
 cree: 2026-11-08
 ---
 
@@ -22,6 +22,9 @@ D'après la vidéo sur Marx, pour Hegel l'histoire est guidée par la raison, pa
 
 > [!interpretation] Julien Rochedy
 > Il applique cette critique au « cercle de la raison » des modérés contemporains et au vote centriste, et revendique de ne « pas être raisonnable ».
+
+## Chez les stoïciens
+La raison humaine est une parcelle de la **raison universelle**, celle qui ordonne le cosmos. Elle nous permet d'ajuster nos actions à la loi de causalité et d'accorder nos représentations à l'ordre du monde. C'est « notre ange gardien personnel ».
 
 ## Pistes de lecture
 - Hume : « la raison est l'esclave des passions ». C'est proche de Nietzsche.

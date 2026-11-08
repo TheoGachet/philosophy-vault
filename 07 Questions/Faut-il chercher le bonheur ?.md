@@ -3,7 +3,7 @@ type: question
 aliases: [recherche du bonheur, bien-être]
 tags: []
 statut: en_cours
-sources: ["[[Nietzsche, conférence — Julien Rochedy]]"]
+sources: ["[[Nietzsche, conférence — Julien Rochedy]]", "[[Le stoïcisme, trouver la paix intérieure — vidéo (Le Précepteur ?)]]"]
 cree: 2026-11-08
 ---
 
@@ -14,6 +14,8 @@ cree: 2026-11-08
 ## Réponses en présence
 - **Non : chercher son œuvre, et le bonheur suivra comme sentiment de puissance** — [[Friedrich Nietzsche]] (voir [[Bonheur]]).
 - **Le chercher, c'est déjà le perdre** — lecture de Rochedy : le bonheur se garde plutôt qu'il ne se cherche (voir [[Nietzsche, conférence — Julien Rochedy]]).
+
+- **Oui, et il est la sagesse** — les stoïciens : ne plus être troublé, en accordant sa raison à l'ordre du monde (voir [[Sagesse]]).
 
 ## Pistes de lecture
 - Aristote, *Éthique à Nicomaque* : le bonheur comme fin ultime.
