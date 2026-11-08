@@ -3,7 +3,7 @@ type: concept
 aliases: [morale, moraline, valeurs morales, immoralisme]
 tags: [éthique]
 statut: en_cours
-sources: ["[[Marx, la lutte des classes — vidéo (Le Précepteur ?)]]", "[[Nietzsche, conférence — Julien Rochedy]]"]
+sources: ["[[Marx, la lutte des classes — vidéo (Le Précepteur ?)]]", "[[Nietzsche, conférence — Julien Rochedy]]", "[[Machiavel, l'art de gouverner — vidéo (Le Précepteur ?)]]"]
 cree: 2026-11-08
 ---
 
@@ -31,6 +31,11 @@ Il faut distinguer deux choses :
 
 ## Marx et Nietzsche
 Tous deux remplacent la question « est-ce bien ? » par la question « quel rapport de force s'exprime ici ? ». Marx le fait pour renverser la domination, Nietzsche pour réévaluer les valeurs. Et la vidéo sur Marx fait à certains marxistes le même reproche que Nietzsche aux moralistes : l'indignation comme posture.
+
+## Chez Machiavel
+- La politique est indépendante de la morale. Si la morale aide à gouverner, on la suit ; si l'immoralité sert, on y va.
+- C'est un **amoralisme** et non un immoralisme : la question morale est évacuée, sans qu'on cherche systématiquement à s'y opposer. Il n'y a pas de bien ou de mal en soi, seulement des moyens au service d'une fin.
+- La vidéo y voit un « proto-utilitarisme » : l'action est jugée à ses résultats et non à ses principes, mesurés en pouvoir plutôt qu'en bonheur.
 
 ## Pistes de lecture
 - Kant : la morale comme loi de la raison, universelle.
