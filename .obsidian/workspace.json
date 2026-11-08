@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f1dad3974f6b2d9c",
+        "id": "57eff067f3cce602",
         "type": "tabs",
         "children": [
           {
-            "id": "8b26a93fc0549594",
+            "id": "1054d38695b4f0a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 Questions/Dieu existe-t-il ?.md",
+                "file": "03 Concepts/Capitalisme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dieu existe-t-il ?"
+              "title": "Capitalisme"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5703125
+    "width": 529.07421875
   },
   "right": {
     "id": "915e18b510d62305",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 Questions/Dieu existe-t-il ?.md",
+                "file": "03 Concepts/Capitalisme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07 Questions/Dieu existe-t-il ?.md",
+                "file": "03 Concepts/Capitalisme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 Questions/Dieu existe-t-il ?.md",
+                "file": "03 Concepts/Capitalisme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,43 +189,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b26a93fc0549594",
+  "active": "1054d38695b4f0a6",
   "lastOpenFiles": [
-    "07 Questions/La vie a-t-elle un sens ?.md",
-    "07 Questions/Pourquoi le mal et la souffrance ?.md",
-    "02 Philosophes/Platon.md",
-    "07 Questions/Qu'est-ce qu'une cité juste ?.md",
-    "07 Questions/Que puis-je connaître ?.md",
-    "07 Questions/Que peut le langage ?.md",
-    "07 Questions/Que faire de la mort ?.md",
-    "07 Questions/Qu'est-ce que le temps ?.md",
-    "07 Questions/Qu'est-ce que le moi ?.md",
-    "07 Questions/Qu'est-ce que bien vivre ?.md",
-    "02 Philosophes/Leibniz.md",
-    "03 Concepts/Qu'est-ce qu'un aphorisme ?.md",
-    "Volonté de puissance.md",
-    "02 Philosophes/Friedrich Nietzsche.md",
-    "09 MOC/MOC Formes brèves.md",
-    "05 Courants/Rationalisme.md",
-    "05 Courants/Platonisme.md",
-    "05 Courants/Présocratiques.md",
-    "05 Courants/Phénoménologie.md",
-    "05 Courants/Néoplatonisme.md",
-    "05 Courants/Épicurisme.md",
-    "05 Courants/Confucianisme.md",
-    "05 Courants/Bouddhisme.md",
-    "05 Courants/Aristotélisme.md",
-    "02 Philosophes/Augustin.md",
-    "09 MOC/MOC Époques.md",
+    "03 Concepts/Conscience de classe.md",
+    "07 Questions/Qu'est-ce que le travail ?.md",
+    "07 Questions/L'histoire a-t-elle un sens ?.md",
+    "03 Concepts/Communisme.md",
+    "03 Concepts/La Liberté.md",
+    "03 Concepts/Baisse tendancielle du taux de profit.md",
+    "03 Concepts/Révolution.md",
+    "03 Concepts/Matérialisme.md",
+    "03 Concepts/Idéologie.md",
+    "03 Concepts/Dialectique.md",
+    "03 Concepts/Capitalisme.md",
+    "03 Concepts/Exploitation.md",
+    "03 Concepts/Égalité.md",
+    "03 Concepts/Dialectique du maître et de l'esclave.md",
+    "07 Questions",
+    "04 Arguments/Le capitalisme produit les conditions de sa propre abolition (Marx).md",
+    "04 Arguments",
+    "03 Concepts/Matérialisme historique.md",
+    "03 Concepts/Lutte des classes.md",
+    "03 Concepts/Le Travail.md",
+    "03 Concepts/Le Pouvoir.md",
+    "03 Concepts/Classe en soi et classe pour soi.md",
+    "03 Concepts/Aliénation idéologique.md",
+    "03 Concepts",
+    "02 Philosophes/Marx.md",
+    "02 Philosophes",
+    "01 Sources/Marx, la lutte des classes — vidéo (Le Précepteur ?).md",
+    "01 Sources",
+    "_Meta/Journal.md",
+    "_Meta",
+    "_Templates/Œuvre.md",
+    "_Templates/Source.md",
+    "_Templates",
     "09 MOC",
     "08 Mes pensées",
-    "07 Questions",
-    "06 Œuvres",
-    "05 Courants",
-    "04 Arguments",
-    "03 Concepts",
-    "02 Philosophes",
-    "01 Sources",
-    "00 Inbox"
+    "06 Œuvres"
   ]
 }

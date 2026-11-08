@@ -9,15 +9,24 @@
   "colorGroups": [
     {
       "query": "path:\"02 Philosophes\"",
-      "color": { "a": 1, "rgb": 8030958 }
+      "color": {
+        "a": 1,
+        "rgb": 8030958
+      }
     },
     {
       "query": "path:\"07 Questions\"",
-      "color": { "a": 1, "rgb": 14701138 }
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
     },
     {
       "query": "path:\"03 Concepts\"",
-      "color": { "a": 1, "rgb": 5025616 }
+      "color": {
+        "a": 1,
+        "rgb": 5025616
+      }
     }
   ],
   "collapse-display": false,
@@ -30,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 1.2016795343458373,
   "close": false
 }
