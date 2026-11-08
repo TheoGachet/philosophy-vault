@@ -3,42 +3,20 @@
   "search": "-path:\"_Templates\" -path:\"_Meta\" -path:\"01 Sources\" -path:\"08 Mes pensées\" -path:\"09 MOC\" -path:\"04 Arguments\"",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:\"02 Philosophes\"",
-      "color": {
-        "a": 1,
-        "rgb": 8030958
-      }
-    },
-    {
-      "query": "path:\"07 Questions\"",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:\"03 Concepts\"",
-      "color": {
-        "a": 1,
-        "rgb": 5025616
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.5,
+  "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5238551917910144,
+  "scale": 0.780483804220734,
   "close": false
 }
