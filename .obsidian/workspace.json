@@ -11,10 +11,14 @@
             "id": "8b26a93fc0549594",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "markdown",
+              "state": {
+                "file": "07 Questions/Dieu existe-t-il ?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dieu existe-t-il ?"
             }
           }
         ]
@@ -79,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 328.5703125
   },
   "right": {
     "id": "915e18b510d62305",
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "07 Questions/Dieu existe-t-il ?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "07 Questions/Dieu existe-t-il ?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "07 Questions/Dieu existe-t-il ?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,6 +191,16 @@
   },
   "active": "8b26a93fc0549594",
   "lastOpenFiles": [
+    "07 Questions/La vie a-t-elle un sens ?.md",
+    "07 Questions/Pourquoi le mal et la souffrance ?.md",
+    "02 Philosophes/Platon.md",
+    "07 Questions/Qu'est-ce qu'une cité juste ?.md",
+    "07 Questions/Que puis-je connaître ?.md",
+    "07 Questions/Que peut le langage ?.md",
+    "07 Questions/Que faire de la mort ?.md",
+    "07 Questions/Qu'est-ce que le temps ?.md",
+    "07 Questions/Qu'est-ce que le moi ?.md",
+    "07 Questions/Qu'est-ce que bien vivre ?.md",
     "02 Philosophes/Leibniz.md",
     "03 Concepts/Qu'est-ce qu'un aphorisme ?.md",
     "Volonté de puissance.md",
@@ -198,20 +215,10 @@
     "05 Courants/Confucianisme.md",
     "05 Courants/Bouddhisme.md",
     "05 Courants/Aristotélisme.md",
-    "07 Questions/La vie a-t-elle un sens ?.md",
     "02 Philosophes/Augustin.md",
-    "07 Questions/Pourquoi le mal et la souffrance ?.md",
-    "07 Questions/Qu'est-ce qu'une cité juste ?.md",
-    "07 Questions/Qu'est-ce que bien vivre ?.md",
     "09 MOC/MOC Époques.md",
-    "09 MOC/MOC Domaines.md",
-    "09 MOC/Accueil.md",
     "09 MOC",
-    "08 Mes pensées/README.md",
     "08 Mes pensées",
-    "07 Questions/Sommes-nous libres ?.md",
-    "07 Questions/Que puis-je connaître ?.md",
-    "07 Questions/Que peut le langage ?.md",
     "07 Questions",
     "06 Œuvres",
     "05 Courants",
