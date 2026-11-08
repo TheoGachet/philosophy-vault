@@ -17,10 +17,10 @@ Le travail est ambivalent : il est ce qui rend l'homme autonome (il sait faire, 
 ## Chez Marx
 Le prolétaire ne possède que sa **force de travail**, marchandise qu'il vend au capitaliste. Sous le machinisme et la division du travail, l'ouvrier perd sa personnalité et devient « un simple appendice de la machine ». Pourtant c'est lui qui produit toute la valeur : d'où le renversement de la [[Dialectique du maître et de l'esclave]], où le travailleur découvre que le maître dépend de lui.
 
-## Chez d'autres (à venir)
-- [[Hegel]] : le travail comme médiation par laquelle la conscience se forme.
-- [[Arendt]] : distinction travail / œuvre / action.
-- [[Simone Weil]] : la condition ouvrière et l'attention.
+## Pistes de lecture
+- Hegel : le travail comme médiation par laquelle la conscience se forme.
+- Arendt : distinction travail / œuvre / action.
+- Simone Weil : la condition ouvrière et l'attention.
 
 ## Relations
 pose_la_question:: [[Qu'est-ce que le travail ?]]

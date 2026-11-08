@@ -16,7 +16,9 @@ cree: 2026-11-08
 - **Il est à créer** — [[Friedrich Nietzsche]] : le [[Surhomme]] comme « sens de la terre », l'œuvre plutôt que le bonheur.
 - **Le but de la vie est la vie elle-même** — [[Friedrich Nietzsche]] : avec l'[[Éternel retour]], le but est atteint à chaque instant, et il faut l'aimer (voir [[Amor fati]]).
 - **Il est dans l'histoire** — [[Marx]] : voir [[L'histoire a-t-elle un sens ?]].
-- **Il n'y en a pas, et il faut se révolter** — [[Camus]] : l'absurde.
+
+## Pistes de lecture
+- Camus, *Le Mythe de Sisyphe* : l'absurde, et la révolte qui lui répond.
 
 ## Tensions
 Un sens que je crée est-il encore un sens, ou seulement une préférence ? Et un sens donné d'en haut est-il encore le mien ?

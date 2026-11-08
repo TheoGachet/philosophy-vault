@@ -20,9 +20,9 @@ cree: 2026-11-08
 > [!interpretation] Julien Rochedy
 > Il en fait un réflexe : devant un idéal, se demander d'abord à qui il sert et quel instinct il veut faire triompher, avant de se demander s'il est vrai. Il ne l'applique qu'aux valeurs de ses adversaires.
 
-## Chez d'autres (à venir)
-- [[Foucault]], « Nietzsche, la généalogie, l'histoire » (1971).
-- [[Marx]] et l'[[Idéologie]] : un autre soupçon, par les intérêts de classe.
+## Pistes de lecture
+- Foucault, « Nietzsche, la généalogie, l'histoire » (1971).
+- Marx et l'Idéologie : un autre soupçon, par les intérêts de classe.
 - Freud. Ricœur réunit les trois sous le nom de « maîtres du soupçon ».
 
 ## Relations

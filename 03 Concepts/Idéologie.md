@@ -24,8 +24,8 @@ L'idéologie ne ment pas forcément : elle naturalise. Elle fait passer pour év
 - La [[Généalogie]] est un autre soupçon, plus profond que celui de Marx. Derrière une valeur, elle ne cherche pas une classe, mais un type de vie, fort ou faible, montant ou déclinant.
 - Les grands idéaux (justice, amour, égalité) peuvent masquer l'esprit de vengeance (voir [[Ressentiment]]).
 
-## Chez d'autres (à venir)
-- [[Foucault]] : le savoir-pouvoir, au-delà du schéma de la classe dominante.
+## Pistes de lecture
+- Foucault : le savoir-pouvoir, au-delà du schéma de la classe dominante.
 
 ## Relations
 prolonge:: [[Généalogie]]

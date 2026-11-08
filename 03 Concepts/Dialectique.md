@@ -23,14 +23,14 @@ Le mot a changé de sens. Chez les Grecs, c'est l'art du dialogue qui fait appar
 - La dialectique socratique est l'arme du plébéien : elle force les nobles à se justifier, donc les met en position d'accusés. « Ce qui doit d'abord se faire prouver ne vaut pas grand-chose » (*Crépuscule des idoles*, « Le problème de Socrate »). Voir [[Raison]].
 - Nietzsche méprise aussi la dialectique hégélienne de l'histoire, qu'il tient pour un optimisme naïf hérité de la théologie.
 
-## Chez d'autres (à venir)
-- [[Socrate]] et [[Platon]] : la dialectique comme dialogue qui remonte vers les Idées.
-- [[Hegel]] : la dialectique de l'Esprit, dont la [[Dialectique du maître et de l'esclave]] est la figure la plus célèbre.
-- [[Héraclite]] : un ancêtre, avec l'unité des contraires et le conflit « père de toutes choses ».
+## Pistes de lecture
+- Socrate et Platon : la dialectique comme dialogue qui remonte vers les Idées.
+- Hegel : la dialectique de l'Esprit, dont la Dialectique du maître et de l'esclave est la figure la plus célèbre.
+- Héraclite : un ancêtre, avec l'unité des contraires et le conflit « père de toutes choses ».
 
 ## Relations
 critique:: [[Friedrich Nietzsche]] · [[Socrate]]
-influencé_par:: [[Hegel]] · [[Héraclite]]
+influencé_par:: [[Hegel]]
 illustre:: [[Dialectique du maître et de l'esclave]]
 pose_la_question:: [[L'histoire a-t-elle un sens ?]]
 

@@ -20,9 +20,9 @@ Toute révolution pose la même question : le changement vient-il des idées, qu
 - **La révolution prolétarienne est inévitable**, au sens d'inéluctable et non de souhaitable : elle découle des contradictions du [[Capitalisme]]. Contrairement aux révolutions passées, elle n'installe pas un nouveau mode d'appropriation : elle les abolit tous.
 - **Les idées viennent après.** Les prolétaires ne théorisent pas la révolution, ils la font, et les intellectuels la théorisent ensuite. Le paradoxe est que Marx l'a théorisée *avant* qu'elle n'arrive.
 
-## Chez d'autres (à venir)
-- [[Arendt]] : *Essai sur la révolution*, sur ce qui sépare les révolutions américaine et française.
-- [[Camus]] : la révolte contre la révolution, *L'Homme révolté*.
+## Pistes de lecture
+- Arendt : *Essai sur la révolution*, sur ce qui sépare les révolutions américaine et française.
+- Camus : la révolte contre la révolution, *L'Homme révolté*.
 - Burke : la critique conservatrice de 1789.
 
 ## Relations

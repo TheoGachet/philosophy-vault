@@ -24,10 +24,10 @@ Le concept se construit contre [[Schopenhauer]]. Pour Schopenhauer, le fond du m
 > [!interpretation] Julien Rochedy
 > Il prend une image : la vie est un capital à dépenser entièrement avant de mourir. Certains le jouent sur des paris risqués, d'autres le placent prudemment, mais tous veulent le dépenser. Il rapproche le concept de la biologie évolutionniste (survie, développement, reproduction) et de Foucault (« tout discours est une prise de pouvoir »). Il dénonce la lecture nazie comme un contresens.
 
-## Chez d'autres (à venir)
-- [[Spinoza]] : le *conatus*, l'effort pour persévérer dans son être. Nietzsche le juge trop tourné vers la conservation.
-- [[Hobbes]] : le désir de puissance après puissance, qui ne cesse qu'à la mort.
-- [[Foucault]] : le pouvoir comme relation diffuse.
+## Pistes de lecture
+- Spinoza : le *conatus*, l'effort pour persévérer dans son être. Nietzsche le juge trop tourné vers la conservation.
+- Hobbes : le désir de puissance après puissance, qui ne cesse qu'à la mort.
+- Foucault : le pouvoir comme relation diffuse.
 
 ## Relations
 s_oppose_à:: [[Schopenhauer]]

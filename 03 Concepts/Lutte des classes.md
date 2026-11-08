@@ -4,7 +4,7 @@ aliases: [lutte des classes]
 tags: [politique]
 statut: en_cours
 epoque: XIXe
-sources: ["[[Marx, la lutte des classes — vidéo (Le Précepteur ?)]]"]
+sources: ["[[Marx, la lutte des classes — vidéo (Le Précepteur ?)]]", "[[Nietzsche, conférence — Julien Rochedy]]"]
 cree: 2026-11-08
 ---
 
@@ -19,10 +19,17 @@ L'histoire de toute société est, selon Marx, celle de la lutte des classes. La
 - L'expression vient de **François Guizot**, historien libéral, non de Marx. #à-vérifier
 - Marx la reprend et en fait une idée maîtresse.
 
+## Chez Nietzsche
+- La domination d'une minorité de forts sur une majorité est, pour Nietzsche, un fait de toute l'histoire : c'est le point de départ de la *Généalogie de la morale*.
+- Mais les dominés ne se révoltent pas d'abord par les armes. Ils se révoltent par la morale, en inversant les valeurs : c'est la [[Morale des maîtres et morale des esclaves]]. Là où Marx voit une lutte d'intérêts, Nietzsche voit une lutte de types de vie et de valeurs.
+
+> [!interpretation] Julien Rochedy
+> Il illustre par les conquêtes de peuples guerriers sur des populations paysannes. Il ajoute que les hiérarchies se reforment partout, y compris dans les sociétés communistes, avec les apparatchiks.
+
 ## Relations
-appartient_à:: matérialisme historique
 illustre:: [[Matérialisme]]
 prolonge:: [[Exploitation]]
+s_oppose_à:: [[Morale des maîtres et morale des esclaves]]
 pose_la_question:: [[Qu'est-ce qu'une cité juste ?]]
 
 > [!objection]

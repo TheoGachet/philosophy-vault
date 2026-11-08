@@ -40,9 +40,8 @@ cree: 2026-11-08
 Il pense par aphorismes et fragments, et tient le système pour un manque de probité. Il admire les moralistes français ([[La Rochefoucauld]], Chamfort) : avec eux, écrit-il, on est plus près de l'Antiquité. Il raille les « philistins de la culture » et veut un philosophe explorateur, qui pense en marchant.
 
 ## Relations
-influencé_par:: [[Schopenhauer]] · [[La Rochefoucauld]] · [[Héraclite]]
+influencé_par:: [[Schopenhauer]] · [[La Rochefoucauld]]
 critique:: [[Socrate]] · [[Hegel]] · [[Christianisme]]
-influence:: [[Foucault]] · [[Heidegger]]
 
 > [!interpretation] Julien Rochedy
 > Il lit Nietzsche comme une clé de la décadence européenne contemporaine, sous l'angle identitaire. Pour lui, l'œuvre forme une métaphysique complète, « aussi profonde que celle de Spinoza », malgré la forme aphoristique. Les prétendues contradictions seraient des nuances, et non des failles. Voir [[Nietzsche, conférence — Julien Rochedy]].

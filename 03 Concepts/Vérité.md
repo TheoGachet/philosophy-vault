@@ -20,15 +20,14 @@ cree: 2026-11-08
 > [!interpretation] Julien Rochedy
 > Il en tire que la question de la vérité n'a pas grand sens, que « la seule chose objective, c'est la subjectivité ». Chacun invoquerait la vérité ou la justice pour faire triompher son type d'homme. Il cite le biologiste Robert Wright, pour qui le cerveau veut la victoire, pas la vérité #à-vérifier. Il rapproche cette idée d'Heidegger.
 
-## Chez d'autres (à venir)
-- [[Platon]] : la vérité comme Idée, au-delà des apparences.
-- [[Descartes]] : l'évidence.
-- [[Kant]] : on ne connaît que les phénomènes.
-- [[Foucault]] : les « régimes de vérité ».
+## Pistes de lecture
+- Platon : la vérité comme Idée, au-delà des apparences.
+- Descartes : l'évidence.
+- Kant : on ne connaît que les phénomènes.
+- Foucault : les « régimes de vérité ».
 
 ## Relations
 prolonge:: [[Généalogie]]
-critique:: [[Socrate]]
 illustre:: [[Volonté de puissance]]
 
 > [!objection]

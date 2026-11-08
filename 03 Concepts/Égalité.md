@@ -22,10 +22,10 @@ L'intérêt des dominés, c'est l'égalité — « la mort des privilèges », c
 - « Les hommes ne sont pas égaux », dit Zarathoustra aux « tarentules », les prédicateurs de l'égalité. Sous leur justice, il entend la vengeance (*Zarathoustra*, II, « Des tarentules »).
 - La morale aristocratique fait au contraire de la distance et de la hiérarchie entre les hommes des valeurs : le « pathos de la distance » (*Par-delà bien et mal*, §257).
 
-## Chez d'autres (à venir)
-- [[Rousseau]] : l'égalité perdue par la société, le contrat pour la refonder.
-- [[Rawls]] : l'égalité équitable, le principe de différence.
-- [[Mill]] : liberté et égalité en tension dans l'utilitarisme libéral.
+## Pistes de lecture
+- Rousseau : l'égalité perdue par la société, le contrat pour la refonder.
+- Rawls : l'égalité équitable, le principe de différence.
+- Mill : liberté et égalité en tension dans l'utilitarisme libéral.
 
 ## Relations
 critique:: [[Friedrich Nietzsche]]

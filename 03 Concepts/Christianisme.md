@@ -3,7 +3,7 @@ type: concept
 aliases: [christianisme, chrétien, chrétiens, Église, idéal ascétique]
 tags: [métaphysique, éthique]
 statut: en_cours
-sources: ["[[Nietzsche, conférence — Julien Rochedy]]"]
+sources: ["[[Marx, la lutte des classes — vidéo (Le Précepteur ?)]]", "[[Nietzsche, conférence — Julien Rochedy]]"]
 cree: 2026-11-08
 ---
 
@@ -21,15 +21,22 @@ cree: 2026-11-08
 > [!interpretation] Julien Rochedy
 > Il sépare la vie chrétienne de la foi chrétienne. Il fait l'hypothèse que Nietzsche verrait aujourd'hui dans un « christianisme viril » un allié contre le nihilisme. C'est sa conjecture, difficile à concilier avec *L'Antéchrist*. Selon lui, le christianisme apaisait le ressentiment des faibles en renvoyant leur vengeance au ciel. Sans lui, ce ressentiment se déchaîne ici-bas.
 
-## Chez d'autres (à venir)
-- [[Pascal]], Kierkegaard.
-- [[Marx]] : « l'opium du peuple ».
+## Chez Marx
+- **« La religion est l'opium du peuple. »** Pour Marx, la religion est une forme de l'[[Idéologie]] : elle console les dominés et les détourne de leur condition réelle.
+- **La bourgeoisie a dissous le sacré** (*Manifeste*, 1848). Elle a noyé « l'extase religieuse » dans « les eaux glacées du calcul égoïste ». À une exploitation voilée par des illusions religieuses, elle a substitué une exploitation ouverte, directe et brutale (voir [[Capitalisme]]).
+- L'orateur de la vidéo retourne la formule contre les marxistes eux-mêmes : sacraliser un texte pour se sentir du côté du bien, c'est aussi un opium.
+
+## Marx et Nietzsche
+Tous deux font de la religion un symptôme plutôt qu'une vérité. Pour Marx, elle console les exploités et les empêche de lutter. Pour Nietzsche, elle est l'arme par laquelle les faibles ont vaincu les forts. Rochedy rapproche les deux : le christianisme apaisait le ressentiment des faibles en renvoyant la vengeance au ciel, ce qui ressemble à l'opium de Marx, vu de l'autre bord.
+
+## Pistes de lecture
+- Pascal, Kierkegaard.
 - René Girard : le christianisme dévoile le mécanisme du bouc émissaire.
-- [[Simone Weil]].
+- Simone Weil.
 
 ## Relations
-prolonge:: [[Morale des maîtres et morale des esclaves]] · [[Mauvaise conscience]]
-illustre:: [[Mort de Dieu]] · [[Nihilisme]]
+prolonge:: [[Morale des maîtres et morale des esclaves]]
+illustre:: [[Mort de Dieu]] · [[Nihilisme]] · [[Idéologie]]
 s_oppose_à:: [[Corps]]
 
 > [!objection]

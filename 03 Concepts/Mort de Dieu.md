@@ -20,10 +20,10 @@ cree: 2026-11-08
 > [!interpretation] Julien Rochedy
 > Il insiste : Nietzsche constate, il ne se réjouit pas, contre ceux qui en font un « moderne » responsable du déclin. Il cite Joseph de Maistre, pour qui l'Évangile sans le dogme est un poison #à-vérifier. Il fait l'hypothèse que Nietzsche verrait aujourd'hui dans un « christianisme viril » un allié contre le nihilisme. C'est une conjecture personnelle, difficile à concilier avec *L'Antéchrist*.
 
-## Chez d'autres (à venir)
-- [[Hegel]] : « Dieu lui-même est mort », dans *Foi et savoir* (1802), déjà.
+## Pistes de lecture
+- Hegel : « Dieu lui-même est mort », dans *Foi et savoir* (1802), déjà.
 - Dostoïevski : « si Dieu n'existe pas, tout est permis », formule qui résume *Les Frères Karamazov* mais n'y figure pas mot pour mot.
-- [[Sartre]], [[Camus]].
+- Sartre, Camus.
 
 ## Relations
 prolonge:: [[Christianisme]]

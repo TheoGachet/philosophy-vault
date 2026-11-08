@@ -18,17 +18,18 @@ cree: 2026-11-08
 - Supprimer toute souffrance, c'est supprimer ce qui élève. La discipline de la grande souffrance a fait tout ce qu'il y a de grand dans l'homme (*Par-delà bien et mal*, §225).
 
 > [!interpretation] Julien Rochedy
-> Le « carpe diem », la quête du bien-être et les anxiolytiques seraient un idéal de vieillard. Chercher le bonheur, c'est supposer qu'on ne l'a pas. Si on ne le trouve pas, on accuse la société, et le nihilisme pointe. Il cite deux phrases attribuées à Nietzsche : à un ami qui se marie, « je ne vous souhaite pas le bonheur, je vous souhaite de le garder » #à-vérifier ; et « les arbres de la forêt ne luttent pas pour le bonheur, mais pour la puissance » #à-vérifier.
+> Le « carpe diem », la quête du bien-être et les anxiolytiques seraient un idéal de vieillard. Chercher le bonheur, c'est supposer qu'on ne l'a pas. Si on ne le trouve pas, on accuse la société, et le nihilisme pointe. Il cite deux phrases attribuées à Nietzsche : à un ami qui se marie, « je ne vous souhaite pas le bonheur, je vous souhaite de le garder » #à-vérifier ; et « les arbres de la forêt ne luttent pas pour le bonheur, mais pour la puissance » #à-vérifier. Il voit enfin dans la quête du bonheur un marché qui fait tourner la machine du [[Capitalisme]], jusqu'au bonheur vendu en pilules.
 
-## Chez d'autres (à venir)
-- [[Aristote]] : l'*eudaimonia*, fin ultime, comme activité vertueuse.
-- [[Épicure]] : l'ataraxie.
-- [[Mill]] : le plus grand bonheur du plus grand nombre.
-- [[Kant]] : le bonheur ne fonde pas la morale.
+## Pistes de lecture
+- Aristote : l'*eudaimonia*, fin ultime, comme activité vertueuse.
+- Épicure : l'ataraxie.
+- Mill : le plus grand bonheur du plus grand nombre.
+- Kant : le bonheur ne fonde pas la morale.
 
 ## Relations
 s_oppose_à:: [[Dernier homme]]
 prolonge:: [[Volonté de puissance]]
+illustre:: [[Capitalisme]]
 pose_la_question:: [[Faut-il chercher le bonheur ?]]
 
 > [!objection]

@@ -20,8 +20,8 @@ cree: 2026-11-08
 > [!interpretation] Julien Rochedy
 > Il raconte l'énigme avec un vieil homme endormi au carrefour ; chez Nietzsche, c'est un nain. Il voit dans le théorème de récurrence de Poincaré (1890) une confirmation scientifique de l'éternel retour. Il en fait aussi une lecture panthéiste : on sent qu'on participe à l'éternité, comme l'atman des brahmanes ou l'être de Heidegger. Ce sentiment ne doit pas rendre contemplatif : il doit pousser à agir en riant. Voir [[Tout revient éternellement (Nietzsche)]].
 
-## Chez d'autres (à venir)
-- [[Héraclite]] et les stoïciens : le monde périt dans un embrasement et renaît, dans des cycles qui se répètent.
+## Pistes de lecture
+- Héraclite et les stoïciens : le monde périt dans un embrasement et renaît, dans des cycles qui se répètent.
 - La pensée indienne et ses cycles cosmiques.
 - Kundera, au début de *L'Insoutenable Légèreté de l'être*, prend l'éternel retour à rebours : sans retour, tout est léger.
 

@@ -22,13 +22,12 @@ cree: 2026-11-08
 > Il appuie la thèse sur la violence des sociétés de chasseurs-cueilleurs : un homme sur trois tué à chaque génération, les Yanomami. #à-vérifier
 > Il explique ainsi la mauvaise conscience européenne d'après 1945 (paix nucléaire, État-providence, consommation) : une cruauté qui ne peut plus sortir et se retourne contre soi. Il l'appelle « ethnomasochisme ».
 
-## Chez d'autres (à venir)
+## Pistes de lecture
 - Freud, *Malaise dans la civilisation* (1930) : le surmoi comme agressivité retournée contre le moi. C'est très proche de Nietzsche.
 - Norbert Elias : la civilisation des mœurs.
 - Pinker : le déclin de la violence.
 
 ## Relations
-prolonge:: [[Ressentiment]] · [[Christianisme]]
 illustre:: [[Morale]] · [[Nihilisme]]
 
 > [!objection]

@@ -24,9 +24,9 @@ Le mot désigne trois choses qu'il faut distinguer : un idéal (l'égalité rée
 - La société sans classes fonctionne comme un **arrière-monde** : un « vrai monde » à venir, au nom duquel on condamne celui-ci (voir [[Nihilisme]]).
 
 > [!interpretation] Julien Rochedy
-> Il lit le communisme comme le paradis chrétien laïcisé. Ce monde est mauvais parce que je suis dominé, et faux parce que plein de contradictions. Le « prophète Marx » annonce donc un monde vrai à venir. Le régime finit en dictature parce qu'il faut tordre le réel pour le rendre conforme à la croyance.
+> Il lit le communisme comme le paradis chrétien laïcisé. Ce monde est mauvais parce que je suis dominé, et faux parce que plein de contradictions. Le « prophète Marx » annonce donc un monde vrai à venir. Le régime finit en dictature parce qu'il faut tordre le réel pour le rendre conforme à la croyance. Il range aussi le marxisme parmi les tentatives de faire de la science une religion de remplacement (voir [[Nihilisme]]).
 
-## Chez d'autres (à venir)
+## Pistes de lecture
 - Les régimes du XXe siècle (URSS, Chine, Cuba) : des bureaucraties qui ont exploité les travailleurs au nom de l'égalité.
 - Platon : la communauté des biens chez les gardiens de la *République*.
 
