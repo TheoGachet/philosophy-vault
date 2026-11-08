@@ -4,7 +4,7 @@ aliases: [dialectique du maître et de l'esclave, Maître et esclave, maître et
 tags: [métaphysique, politique]
 statut: en_cours
 epoque: XIXe
-sources: ["[[Marx, la lutte des classes — vidéo (Le Précepteur ?)]]"]
+sources: ["[[Marx, la lutte des classes — vidéo (Le Précepteur ?)]]", "[[Machiavel, l'art de gouverner — vidéo (Le Précepteur ?)]]"]
 cree: 2026-11-08
 ---
 
@@ -16,6 +16,9 @@ cree: 2026-11-08
 Chez Hegel (*Phénoménologie de l'Esprit*, 1807), le maître fait travailler l'esclave : l'esclave produit, le maître consomme. L'esclave est actif, le maître passif. Peu à peu l'esclave découvre qu'il sait faire, qu'il est autonome, tandis que le maître dépend de lui pour jouir. Le maître devient l'esclave de l'esclave.
 
 Marx en fait le ressort de la prise de conscience du travailleur en lutte : le prolétaire découvre que le capitaliste ne peut rien sans lui. La supériorité du prolétaire tient à cette dépendance — non celle qui le lie au capital, mais celle par laquelle le capitaliste est lié à lui. L'autorité n'existe que si elle est autorisée : si le prolétaire cesse d'autoriser le pouvoir sur lui, ce pouvoir s'évanouit.
+
+## Chez Machiavel (lecture de la vidéo)
+La vidéo retourne *Le Prince* : en écrivant un manuel pour les gouvernants, Machiavel aurait fourni aux gouvernés de quoi comprendre comment on les dirige. Elle reprend l'idée hégélienne : les gouvernants ne tirent-ils pas leur pouvoir des gouvernés ?
 
 ## Relations
 illustre:: [[Dialectique]] — la figure la plus célèbre du renversement dialectique

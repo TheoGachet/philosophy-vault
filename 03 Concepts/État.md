@@ -3,7 +3,7 @@ type: concept
 aliases: [État, l'État, monstre froid]
 tags: [politique]
 statut: en_cours
-sources: ["[[Marx, la lutte des classes — vidéo (Le Précepteur ?)]]", "[[Nietzsche, conférence — Julien Rochedy]]"]
+sources: ["[[Marx, la lutte des classes — vidéo (Le Précepteur ?)]]", "[[Nietzsche, conférence — Julien Rochedy]]", "[[Machiavel, l'art de gouverner — vidéo (Le Précepteur ?)]]"]
 cree: 2026-11-08
 ---
 
@@ -14,6 +14,13 @@ cree: 2026-11-08
 ## Chez Marx
 - « La politique est le bras armé de l'économie, et la police le bras armé de la politique. » L'État n'est pas neutre : il défend les intérêts de la classe qui possède les moyens de production.
 - Quand ses intérêts sont menacés, la bourgeoisie ne descend pas dans la rue. Elle agit par les lois, les restructurations et les délocalisations.
+
+## Chez Machiavel
+- Maintenir l'État est la fin qui justifie d'agir contre la charité et la religion.
+- La vidéo se demande si le sacré, chassé de la morale, ne s'est pas réfugié dans l'État.
+
+## Chez Hobbes
+Par peur de la mort, les hommes remettent leur pouvoir à l'État pour qu'il les protège de la guerre de chacun contre chacun.
 
 ## Chez Nietzsche
 - *Zarathoustra*, I, « De la nouvelle idole ». L'État ment quand il dit « Moi, l'État, je suis le peuple ». Il a été inventé pour les « trop nombreux », les superflus. C'est une idole qui prend la place de Dieu.

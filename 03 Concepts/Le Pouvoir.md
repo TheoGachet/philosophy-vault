@@ -3,7 +3,7 @@ type: concept
 aliases: [pouvoir, le pouvoir, domination]
 tags: [politique]
 statut: en_cours
-sources: ["[[Marx, la lutte des classes — vidéo (Le Précepteur ?)]]", "[[Nietzsche, conférence — Julien Rochedy]]"]
+sources: ["[[Marx, la lutte des classes — vidéo (Le Précepteur ?)]]", "[[Nietzsche, conférence — Julien Rochedy]]", "[[Machiavel, l'art de gouverner — vidéo (Le Précepteur ?)]]"]
 cree: 2026-11-08
 ---
 
@@ -20,6 +20,13 @@ Distinction décisive : le prolétariat détient le **pouvoir réel** (il produi
 ## Chez Nietzsche
 - Le pouvoir n'est pas une chose qu'on possède. C'est ce que tout vivant cherche à exercer : la Volonté de puissance.
 - Il ne se réduit pas à la force brute. La morale, le discours, le don et même l'humilité sont des manières d'exercer une puissance. Ceux qui ne peuvent pas dominer par les armes dominent par les valeurs : c'est la révolte des esclaves dans la morale.
+
+## Chez Machiavel
+- Le pouvoir est la fin de la politique : le conquérir, le conserver, le consolider.
+- Deux leviers font obéir : la **sympathie**, ou plutôt l'impression d'aimer le peuple pour en être aimé, et la **crainte**. La crainte est le plus solide, car rien n'est plus fort que la peur de la mort.
+
+## Machiavel et Marx
+Les deux sources finissent sur la même idée : le pouvoir n'existe que tant que ceux qui obéissent l'autorisent. La vidéo sur Marx la tire de la grève : « l'autorité, c'est le fait d'être autorisé ». Celle sur Machiavel en fait une question : les gouvernants existeraient-ils sans les gouvernés pour leur obéir ? Dans les deux cas, la lucidité des dominés est le premier pas vers leur émancipation.
 
 ## Pistes de lecture
 - Hobbes : le pouvoir souverain né du contrat.

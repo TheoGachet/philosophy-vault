@@ -3,7 +3,7 @@ type: question
 aliases: [cité juste, justice politique, meilleur régime]
 tags: [politique]
 statut: en_cours
-sources: ["[[Marx, la lutte des classes — vidéo (Le Précepteur ?)]]", "[[Nietzsche, conférence — Julien Rochedy]]"]
+sources: ["[[Marx, la lutte des classes — vidéo (Le Précepteur ?)]]", "[[Nietzsche, conférence — Julien Rochedy]]", "[[Machiavel, l'art de gouverner — vidéo (Le Précepteur ?)]]"]
 cree: 2026-11-08
 ---
 
@@ -15,8 +15,11 @@ cree: 2026-11-08
 - **Une société sans classes** — [[Marx]] : mettre en commun les moyens de production, mettre fin à l'[[Exploitation]], viser une Égalité réelle et non seulement formelle.
 - **Une hiérarchie qui permette l'homme supérieur** — [[Friedrich Nietzsche]] : le « pathos de la distance » contre le nivellement de la [[Démocratie]] et du socialisme. L'État est un « monstre froid ».
 
+- **La cité ordonnée au Bien** — [[Platon]] : la *kallipolis*, la belle cité, doit faire advenir l'idée du Bien sur terre.
+- **La cité qui sauve les âmes** — [[Augustin]] : la cité de Dieu, fondée sur l'amour de Dieu, contre la cité de l'amour de soi.
+- **La question est mal posée** — [[Machiavel]] : la politique ne vise pas la justice, mais la conservation du pouvoir. La justice n'y est qu'une apparence utile (voir [[Réalisme politique]]).
+
 ## Pistes de lecture
-- Platon, *La République* : le gouvernement des philosophes.
 - Rawls, *Théorie de la justice* : la justice comme équité.
 
 ## Tensions
