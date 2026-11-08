@@ -22,7 +22,7 @@ cree: 2026-11-07
 
 ## Relations
 influencé_par:: 
-influence:: [[Empirisme]]
+influence:: Empirisme
 s_oppose_à:: [[Thomas d'Aquin]]
 
 > [!moi]

@@ -29,7 +29,6 @@ L'aphorisme renonce à l'appareil de la preuve. Il ne conclut pas une chaîne, i
 - **Aphorisme-rupture** (Nietzsche) : qui attaque une évidence.
 
 ## Relations
-illustre:: [[MOC Formes brèves]]
 prolonge:: 
 
 > [!objection]

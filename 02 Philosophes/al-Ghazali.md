@@ -24,6 +24,6 @@ cree: 2026-11-07
 ## Relations
 influencé_par:: 
 influence:: [[Ibn Rushd (en adversaire)]]
-s_oppose_à:: [[Aristotélisme]]
+s_oppose_à:: Aristotélisme
 
 > [!moi]

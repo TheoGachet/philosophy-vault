@@ -24,6 +24,6 @@ cree: 2026-11-07
 ## Relations
 influencé_par:: 
 influence:: [[Platon]] · [[Aristote]]
-s_oppose_à:: [[Sophistes]]
+s_oppose_à:: Sophistes
 
 > [!moi]

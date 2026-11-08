@@ -26,6 +26,6 @@ cree: 2026-11-07
 ## Relations
 influencé_par:: [[Hume]] · [[Rousseau]]
 influence:: [[Hegel]] · [[Rawls]]
-s_oppose_à:: [[Empirisme]]
+s_oppose_à:: Empirisme
 
 > [!moi]

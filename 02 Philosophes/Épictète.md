@@ -25,6 +25,6 @@ cree: 2026-11-07
 ## Relations
 influencé_par:: [[Socrate]]
 influence:: [[Marc Aurèle]]
-s_oppose_à:: [[Épicurisme]]
+s_oppose_à:: Épicurisme
 
 > [!moi]

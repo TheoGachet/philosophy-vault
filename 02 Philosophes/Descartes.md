@@ -26,6 +26,6 @@ cree: 2026-11-07
 ## Relations
 influencé_par:: 
 influence:: [[Spinoza]] · [[Leibniz]]
-s_oppose_à:: [[Empirisme]]
+s_oppose_à:: Empirisme
 
 > [!moi]

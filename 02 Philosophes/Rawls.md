@@ -25,6 +25,6 @@ cree: 2026-11-07
 ## Relations
 influencé_par:: [[Kant]] · [[Mill]]
 influence:: 
-s_oppose_à:: [[Utilitarisme]]
+s_oppose_à:: Utilitarisme
 
 > [!moi]

@@ -24,6 +24,6 @@ cree: 2026-11-07
 ## Relations
 influencé_par:: [[Pyrrhon]]
 influence:: [[Montaigne]] · [[Hume]]
-s_oppose_à:: [[Dogmatisme]]
+s_oppose_à:: Dogmatisme
 
 > [!moi]

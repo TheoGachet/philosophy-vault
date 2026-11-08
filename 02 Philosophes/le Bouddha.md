@@ -24,7 +24,7 @@ cree: 2026-11-07
 
 ## Relations
 influencé_par:: 
-influence:: [[Schopenhauer]] · [[Bouddhisme]]
+influence:: [[Schopenhauer]] · Bouddhisme
 s_oppose_à:: 
 
 > [!moi]

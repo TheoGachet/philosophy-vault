@@ -25,7 +25,7 @@ cree: 2026-11-07
 
 ## Relations
 influencé_par:: 
-influence:: [[Philosophie analytique]]
+influence:: Philosophie analytique
 s_oppose_à:: 
 
 > [!moi]

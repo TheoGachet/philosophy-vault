@@ -25,7 +25,7 @@ cree: 2026-11-07
 
 ## Relations
 influencé_par:: 
-influence:: [[Existentialisme]] · [[Heidegger]]
+influence:: Existentialisme · [[Heidegger]]
 s_oppose_à:: [[Hegel]]
 
 > [!moi]

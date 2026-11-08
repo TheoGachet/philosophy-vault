@@ -25,6 +25,6 @@ cree: 2026-11-07
 ## Relations
 influencé_par:: [[Locke]] · [[Sextus Empiricus]]
 influence:: [[Kant]]
-s_oppose_à:: [[Rationalisme]]
+s_oppose_à:: Rationalisme
 
 > [!moi]

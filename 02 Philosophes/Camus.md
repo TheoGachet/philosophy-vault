@@ -25,6 +25,6 @@ cree: 2026-11-07
 ## Relations
 influencé_par:: [[Friedrich Nietzsche]]
 influence:: 
-s_oppose_à:: [[Existentialisme chrétien]]
+s_oppose_à:: Existentialisme chrétien
 
 > [!moi]

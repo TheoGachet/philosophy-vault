@@ -23,7 +23,7 @@ cree: 2026-11-07
 
 ## Relations
 influencé_par:: 
-influence:: [[Taoïsme]]
-s_oppose_à:: [[Confucianisme]]
+influence:: Taoïsme
+s_oppose_à:: Confucianisme
 
 > [!moi]

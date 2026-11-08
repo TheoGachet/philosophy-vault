@@ -26,6 +26,6 @@ cree: 2026-11-07
 ## Relations
 influencé_par:: [[Hobbes]]
 influence:: [[Hume]] · [[Rousseau]]
-s_oppose_à:: [[Rationalisme]]
+s_oppose_à:: Rationalisme
 
 > [!moi]

@@ -31,6 +31,6 @@ cree: 2026-11-07
 ## Relations
 influencé_par:: [[Schopenhauer]] · [[Héraclite]] · [[Montaigne]]
 influence:: [[Heidegger]] · [[Foucault]] · [[Cioran]]
-s_oppose_à:: [[Platonisme]] · [[Kant]]
+s_oppose_à:: Platonisme · [[Kant]]
 
 > [!moi]
